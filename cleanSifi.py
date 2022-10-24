@@ -60,6 +60,9 @@ print("after pruning")
 print(len(wordSet))
 print(len(sentenceSet))
 
+wordSet = list(wordSet)
+wordSet.sort()
+
 f = open(dictionary_dir + "sci_words.txt", "w")
 for word in wordSet:
     f.write("%s\n" %word)
