@@ -33,6 +33,27 @@ sentences = sentences_
 
 print(len(words), len(sentences))
 
+f = open(dictionary_dir + "eng_words.txt")
+words = f.readlines()
+words = set([word.strip().lower() for word in words])
+
+for sentence in sentences:
+    words_ = sentence.split(" ")
+
+    for word in words_:
+        if word not in words:
+            print("adding word", word)
+            words.add(word)
+    
+words = list(words)
+words.sort()
+
+f = open(dictionary_dir + "eng_words.txt", "w")
+for word in words:
+    f.write("%s\n" %word)
+
+f.close()
+
 f = open(dictionary_dir + "eng_sentences.txt", "w")
 for sentense in sentences:
     f.write("%s\n" %sentense)
