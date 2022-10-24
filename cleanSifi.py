@@ -10,7 +10,7 @@ wordSet = {}
 sentenceSet = set()
 
 MIN_SENTENCE_WORD_COUNT = 3
-MIN_WORD_COUNT = 10
+MIN_WORD_COUNT = 100
 
 for line in lines:
     
