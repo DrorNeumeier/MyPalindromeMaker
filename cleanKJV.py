@@ -10,6 +10,7 @@ kvj_wordSet = set()
 kvj_sentenseSet = set()
 
 MIN_SENTENCE_WORD_COUNT = 3
+MAX_SENTENCE_WORD_COUNT = 64
 
 for line in lines:
     words = line.split(" ")[1:]
@@ -27,7 +28,7 @@ for line in lines:
     for sentense in sentences:
       sentense = re.sub(r'[^a-z ]', '', sentense.strip().lower())
 
-      if sentense.count(" ") >= MIN_SENTENCE_WORD_COUNT-1:
+      if sentense.count(" ") >= MIN_SENTENCE_WORD_COUNT-1 and sentense.count(" ") < MAX_SENTENCE_WORD_COUNT:
         kvj_sentenseSet.add(sentense)
         
 f = open(dictionary_dir + "/kjv_words.txt", "w")
