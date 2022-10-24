@@ -35,6 +35,7 @@ wordSet = {}
 sentenceSet = set()
 
 MIN_SENTENCE_WORD_COUNT = 3
+MAX_SENTENCE_WORD_COUNT = 64
 MIN_WORD_COUNT = 1
 
 for line in lines:
@@ -54,7 +55,7 @@ for line in lines:
                     wordSet[word] = 0
                 wordSet[word] = wordSet[word] + 1
         
-        if len(words) >= MIN_SENTENCE_WORD_COUNT:
+        if len(words) >= MIN_SENTENCE_WORD_COUNT and len(words) < MAX_SENTENCE_WORD_COUNT:
             sentenceSet.add(sentence)
         
 print("before pruning")
