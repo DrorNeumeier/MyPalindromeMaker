@@ -2,7 +2,7 @@ import re
 import random
 
 dictionary_dir = "dictionaries/"
-MAX_SENTENCE_COUNT = 100000
+MAX_SENTENCE_COUNT = 300000
 MIN_WORD_PREVELANCE = 10
 
 f = open(dictionary_dir + "wikisent2.txt")
