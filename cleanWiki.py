@@ -16,8 +16,21 @@ words = set()
 sentencesPerWord = {}
 
 for line in lines:
+
+    if len(sentences) % 10000:
+        print("processed", len(sentences))
+
     if len(re.findall('[0-9]+', line)):
         #has numbers. Just pick another one.
+        continue
+    
+    sentence = line
+    words_ = sentence.split(" ")
+    if len([word for word in words_ if word.isupper()]) > 0:
+        #its an acronym. pass
+        continue
+    if len([word for word in words_ if word[0].isupper()]) > 2:
+        #more then 1 proper noun. pass
         continue
         
     sentence = re.sub(r'[^a-z ]', '', line.strip().lower())
@@ -32,8 +45,8 @@ for line in lines:
             
         sentencesPerWord[word].add(sentence)
 
-    if len(sentences) >= MAX_SENTENCE_COUNT:
-        break
+    #if len(sentences) >= MAX_SENTENCE_COUNT:
+    #    break
 
 for word in sentencesPerWord.keys():
     if len(sentencesPerWord[word]) >= MIN_WORD_PREVELANCE:
@@ -41,6 +54,12 @@ for word in sentencesPerWord.keys():
 
 words = list(words)
 words.sort()
+
+print(len(sentences), "sentences and", len(words), "words")
+
+sentences = list(sentences)
+random.shuffle(sentences)
+sentences = sentences[:MAX_SENTENCE_COUNT]
 
 f = open(dictionary_dir + "wiki_words.txt", "w")
 for word in words:
