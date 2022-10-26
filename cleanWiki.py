@@ -17,7 +17,7 @@ sentencesPerWord = {}
 
 for line in lines:
 
-    if len(sentences) % 100000:
+    if len(sentences) % 100000 == 0:
         print("processed", len(sentences))
 
     if len(re.findall('[0-9]+', line)):
