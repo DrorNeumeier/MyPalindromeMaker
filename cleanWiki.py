@@ -17,7 +17,7 @@ sentencesPerWord = {}
 
 for line in lines:
 
-    if len(sentences) % 10000:
+    if len(sentences) % 100000:
         print("processed", len(sentences))
 
     if len(re.findall('[0-9]+', line)):
@@ -26,6 +26,9 @@ for line in lines:
     
     sentence = line
     words_ = sentence.split(" ")
+    if len(words_) > 64:
+        #sentence too long. pass
+        continue
     if len([word for word in words_ if word.isupper()]) > 0:
         #its an acronym. pass
         continue
@@ -55,7 +58,7 @@ for word in sentencesPerWord.keys():
 words = list(words)
 words.sort()
 
-print(len(sentences), "sentences and", len(words), "words")
+print(len(sentences), "sentences and", len(words), "words out of", len(lines), "lines")
 
 sentences = list(sentences)
 random.shuffle(sentences)

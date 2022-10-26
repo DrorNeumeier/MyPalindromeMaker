@@ -42,7 +42,6 @@ abdomens
 abdominal
 abdominalis
 abdominis
-abducens
 abduct
 abducted
 abduction
@@ -586,7 +585,6 @@ adapts
 adcs
 add
 added
-addendum
 adder
 adders
 adderstongue
@@ -1130,7 +1128,6 @@ agroecosystem
 agroforestry
 agromyza
 agromyzidae
-agronomic
 agronomy
 agrostis
 agrotera
@@ -1523,7 +1520,6 @@ allocates
 allocating
 allocation
 allocations
-allocators
 allocortex
 allodynerus
 allogeneic
@@ -2453,7 +2449,6 @@ antiemetic
 antiestablishment
 antifascism
 antifascist
-antifouling
 antifreeze
 antifungal
 antifungals
@@ -4430,7 +4425,6 @@ bard
 bardic
 bare
 bareback
-bareboat
 barefoot
 bareknuckle
 barely
@@ -5849,7 +5843,6 @@ boils
 bois
 boise
 boisterous
-bok
 bokermannohyla
 bol
 boland
@@ -7244,7 +7237,6 @@ californicum
 californicus
 caliginosa
 caligula
-caliper
 calipers
 calisto
 call
@@ -8072,7 +8064,6 @@ catherine
 catheter
 catheterization
 catheters
-cathinone
 cathode
 cathodes
 cathodic
@@ -8368,7 +8359,6 @@ cercyon
 cereal
 cereals
 cerebellar
-cerebelli
 cerebellum
 cerebral
 cerebri
@@ -8408,7 +8398,6 @@ certified
 certifies
 certify
 certifying
-certiorari
 cerulean
 cerussite
 cervical
@@ -8587,7 +8576,6 @@ charcoal
 chard
 chardonnay
 charge
-chargeable
 chargeback
 charged
 charger
@@ -10973,7 +10961,6 @@ conspicuously
 conspiracies
 conspiracy
 conspirators
-conspire
 conspired
 conspiring
 constable
@@ -11062,7 +11049,6 @@ consumers
 consumes
 consuming
 consummate
-consummated
 consummation
 consumption
 contact
@@ -11459,7 +11445,6 @@ coriaceus
 coriander
 corilla
 corillidae
-coring
 corinnidae
 corinth
 corinthian
@@ -12023,7 +12008,6 @@ creek
 creeks
 creep
 creeper
-creepers
 creeping
 creeps
 creepy
@@ -13283,7 +13267,6 @@ decurrens
 decurrent
 decurved
 decussata
-decussate
 dedicate
 dedicated
 dedicates
@@ -13437,7 +13420,6 @@ degreegranting
 degrees
 dehiscence
 dehiscent
-dehumanization
 dehumanizing
 dehydrated
 dehydration
@@ -13745,7 +13727,6 @@ depolarization
 depopulated
 depopulation
 deportation
-deportations
 deported
 deposed
 deposit
@@ -14484,7 +14465,6 @@ dipterocarp
 dipterocarpaceae
 dipterocarpus
 diptychophora
-dirac
 dire
 direct
 directed
@@ -15017,8 +14997,6 @@ diverting
 divertor
 diverts
 dives
-divest
-divested
 divide
 divided
 dividend
@@ -15316,7 +15294,6 @@ dowels
 dower
 down
 downbeat
-downbursts
 downcurved
 downdraft
 downed
@@ -15424,7 +15401,6 @@ drawback
 drawbacks
 drawbar
 drawbridge
-drawdown
 drawer
 drawers
 drawing
@@ -15500,7 +15476,6 @@ driveby
 drivein
 driven
 driver
-driverless
 drivers
 drives
 driveshaft
@@ -15955,7 +15930,6 @@ echoed
 echoes
 echoing
 echolocation
-echos
 ecigarette
 ecigarettes
 eclampsia
@@ -16828,7 +16802,6 @@ engages
 engaging
 enganensis
 engender
-engendered
 engina
 engine
 engined
@@ -17763,7 +17736,6 @@ evolute
 evolution
 evolutionarily
 evolutionary
-evolutions
 evolve
 evolved
 evolves
@@ -18087,7 +18059,6 @@ explanations
 explanatory
 explicit
 explicitly
-explicitness
 explode
 exploded
 explodes
@@ -19094,7 +19065,6 @@ fingertip
 fingertips
 finial
 finials
-fining
 finish
 finished
 finisher
@@ -19797,7 +19767,6 @@ foreandaft
 forearm
 forearms
 forebears
-forebody
 forebrain
 forecast
 forecasting
@@ -19846,7 +19815,6 @@ foreshortening
 foresight
 foreskin
 forest
-forestall
 forestay
 forested
 forester
@@ -19905,7 +19873,6 @@ formality
 formalization
 formalize
 formalized
-formalizing
 formally
 format
 formate
@@ -20100,7 +20067,6 @@ fragrances
 fragrans
 fragrant
 frail
-frailty
 frame
 framebased
 framebuffer
@@ -20328,7 +20294,6 @@ frith
 fritillaria
 fritillaries
 fritillary
-fritters
 fritz
 frivolous
 frock
@@ -23337,7 +23302,6 @@ heterosexism
 heterosexual
 heterosexuality
 heterosis
-heterostracans
 heterotrophic
 heterotrophs
 heterozygote
@@ -23869,7 +23833,6 @@ hooker
 hookeri
 hookers
 hooking
-hooklike
 hooks
 hookup
 hookworm
@@ -24125,7 +24088,6 @@ humeralis
 humerus
 humid
 humidity
-humile
 humiliate
 humiliated
 humiliating
@@ -25835,7 +25797,6 @@ insult
 insulted
 insulting
 insults
-insurable
 insurance
 insure
 insured
@@ -26075,7 +26036,6 @@ interoperability
 interoperable
 interoperate
 interosseous
-interpeduncular
 interpersonal
 interphalangeal
 interphase
@@ -27142,7 +27102,6 @@ kebab
 kecap
 keel
 keelback
-keelboat
 keeled
 keels
 keen
@@ -27567,7 +27526,6 @@ lacquer
 lacquered
 lacquers
 lacrimal
-lacrimation
 lacrosse
 lactam
 lactarius
@@ -30363,7 +30321,6 @@ massive
 massively
 massless
 massmarket
-massmedia
 massproduce
 massproduced
 massproduction
@@ -31801,7 +31758,6 @@ missouri
 missouris
 misspelled
 misspelling
-misstatement
 misstatements
 mist
 mistake
@@ -31982,7 +31938,6 @@ modulators
 modulatory
 module
 modules
-moduli
 modulidae
 modulus
 modus
@@ -32078,7 +32033,6 @@ monasteries
 monastery
 monastic
 monasticism
-monastics
 monday
 mondays
 monde
@@ -32338,7 +32292,6 @@ mortgage
 mortgaged
 mortgagee
 mortgages
-mortification
 mortimer
 mortis
 mortise
@@ -32361,7 +32314,6 @@ mosque
 mosques
 mosquito
 mosquitoes
-mosquitofish
 mosquitos
 moss
 mosses
@@ -33177,7 +33129,6 @@ navigators
 navy
 navys
 nawab
-nay
 nazareth
 nazi
 nazis
@@ -34038,7 +33989,6 @@ nonspecialists
 nonspecific
 nonspeech
 nonsporeforming
-nonsporting
 nonsports
 nonsporulating
 nonstandard
@@ -34841,7 +34791,6 @@ oliva
 olivacea
 olivaceous
 olivaceus
-olivary
 olive
 olivebacked
 olivebrown
@@ -36792,7 +36741,6 @@ payout
 payouts
 paypal
 payperview
-payphones
 payroll
 pays
 paz
@@ -37695,7 +37643,6 @@ phrased
 phraseology
 phrases
 phrasing
-phreaking
 phreatic
 phrenic
 phricanthes
@@ -38642,7 +38589,6 @@ pollock
 polls
 pollutant
 pollutants
-pollute
 polluted
 polluting
 pollution
@@ -39415,7 +39361,6 @@ preoccupations
 preoccupied
 preoperative
 preoptic
-preorbital
 preorder
 preordered
 preorders
@@ -40957,7 +40902,6 @@ quinone
 quintessence
 quintessential
 quintet
-quintus
 quirk
 quirks
 quirky
@@ -42001,7 +41945,6 @@ refuge
 refugee
 refugees
 refuges
-refugia
 refund
 refunds
 refurbish
@@ -42304,7 +42247,6 @@ reminder
 reminders
 reminding
 reminds
-reminisce
 reminiscence
 reminiscences
 reminiscent
@@ -44987,7 +44929,6 @@ securing
 securities
 securitization
 security
-sed
 sedan
 sedans
 sedation
@@ -45596,7 +45537,6 @@ sexology
 sexpositive
 sexpunctata
 sexselective
-sexspecific
 sextet
 sexton
 sexual
@@ -45691,7 +45631,6 @@ share
 shared
 shareholder
 shareholders
-shareholding
 shares
 shareware
 sharia
@@ -46077,7 +46016,6 @@ side
 sidearm
 sideband
 sidebar
-sideboard
 sidebyside
 sidecar
 sidechain
@@ -47715,10 +47653,8 @@ spoken
 spokenword
 spokes
 spokesman
-spokespeople
 spokesperson
 spokespersons
-spoliation
 spondylitis
 sponge
 spongebob
@@ -47874,7 +47810,6 @@ squadrons
 squads
 squalius
 squall
-squama
 squamata
 squamosa
 squamosal
@@ -48112,7 +48047,6 @@ stasis
 stat
 state
 statebased
-statebuilding
 statecontrolled
 stated
 stateful
@@ -50447,7 +50381,6 @@ telephlebiidae
 telephone
 telephones
 telephony
-teleplay
 teleplays
 teleport
 teleportation
@@ -51011,7 +50944,6 @@ thinned
 thinner
 thinners
 thinness
-thinnest
 thinning
 thinwalled
 thiocyanate
@@ -51162,7 +51094,6 @@ threeyear
 threeyearold
 threeyearolds
 threonine
-thresher
 threshing
 threshold
 thresholds
@@ -51341,7 +51272,6 @@ tilloclytus
 tilt
 tilted
 tilting
-tiltrotor
 tilts
 tim
 timaliidae
@@ -52062,7 +51992,6 @@ transposed
 transposition
 transposon
 transsexual
-transsexualism
 transshipment
 transtillaspis
 transversa
@@ -53362,7 +53291,6 @@ unheard
 unheated
 unhelpful
 unhinged
-unholy
 uni
 unibody
 unica
@@ -53615,7 +53543,6 @@ unsophisticated
 unsound
 unspecified
 unspoiled
-unspoilt
 unspoken
 unsportsmanlike
 unsprung
@@ -54370,7 +54297,6 @@ vetting
 vexatious
 vexillology
 vexillum
-vi
 via
 viability
 viable
