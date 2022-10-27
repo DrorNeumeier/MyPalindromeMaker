@@ -1,0 +1,153 @@
+Making palindromes using dictionary: Wikipedia:wiki2
+/usr/local/lib/python3.7/dist-packages/transformers/tokenization_utils_base.py:2308: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  FutureWarning,
+...I have tried 999 palindromes (1000 rounds) and found 0 that pass the language model. My duplication ratio is 0.000000
+...I have tried 1999 palindromes (2000 rounds) and found 0 that pass the language model. My duplication ratio is 0.000000
+...I have tried 2999 palindromes (3000 rounds) and found 0 that pass the language model. My duplication ratio is 0.000000
+...I have tried 3999 palindromes (4000 rounds) and found 0 that pass the language model. My duplication ratio is 0.000000
+#######FAILED but close: race disputes setup sidecar -1.893511176109314
+#######FAILED but close: momes oppose mom -4.899617671966553
+...I have tried 4999 palindromes (5000 rounds) and found 0 that pass the language model. My duplication ratio is 0.000000
+...I have tried 5999 palindromes (6000 rounds) and found 0 that pass the language model. My duplication ratio is 0.000000
+...I have tried 6998 palindromes (7000 rounds) and found 0 that pass the language model. My duplication ratio is 0.000143
+
+ loca races oppose caracol 5.787512302398682
+Top contenders [('loca races oppose caracol', 5.787512302398682)]
+...I have tried 7998 palindromes (8000 rounds) and found 1 that pass the language model. My duplication ratio is 0.000125
+...I have tried 8998 palindromes (9000 rounds) and found 1 that pass the language model. My duplication ratio is 0.000111
+...I have tried 9998 palindromes (10000 rounds) and found 1 that pass the language model. My duplication ratio is 0.000100
+...I have tried 10998 palindromes (11000 rounds) and found 1 that pass the language model. My duplication ratio is 0.000091
+...I have tried 11997 palindromes (12000 rounds) and found 1 that pass the language model. My duplication ratio is 0.000167
+
+ waly bynames oppose many bylaw 4.128014802932739
+Top contenders [('loca races oppose caracol', 5.787512302398682), ('waly bynames oppose many bylaw', 4.128014802932739)]
+...I have tried 12997 palindromes (13000 rounds) and found 2 that pass the language model. My duplication ratio is 0.000154
+...I have tried 13997 palindromes (14000 rounds) and found 2 that pass the language model. My duplication ratio is 0.000143
+...I have tried 14997 palindromes (15000 rounds) and found 2 that pass the language model. My duplication ratio is 0.000133
+#######FAILED but close: id losses opposes soldi -1.9449798464775085
+...I have tried 15997 palindromes (16000 rounds) and found 2 that pass the language model. My duplication ratio is 0.000125
+...I have tried 16995 palindromes (17000 rounds) and found 2 that pass the language model. My duplication ratio is 0.000235
+...I have tried 17992 palindromes (18000 rounds) and found 2 that pass the language model. My duplication ratio is 0.000389
+...I have tried 18992 palindromes (19000 rounds) and found 2 that pass the language model. My duplication ratio is 0.000368
+...I have tried 19990 palindromes (20000 rounds) and found 2 that pass the language model. My duplication ratio is 0.000450
+#######FAILED but close: soudan named de manna duos -2.535173535346985
+...I have tried 20988 palindromes (21000 rounds) and found 2 that pass the language model. My duplication ratio is 0.000524
+...I have tried 21985 palindromes (22000 rounds) and found 2 that pass the language model. My duplication ratio is 0.000636
+...I have tried 22985 palindromes (23000 rounds) and found 2 that pass the language model. My duplication ratio is 0.000609
+...I have tried 23983 palindromes (24000 rounds) and found 2 that pass the language model. My duplication ratio is 0.000667
+#######FAILED but close: pipy names oppose many pip -0.8127783536911011
+...I have tried 24979 palindromes (25000 rounds) and found 2 that pass the language model. My duplication ratio is 0.000800
+...I have tried 25977 palindromes (26000 rounds) and found 2 that pass the language model. My duplication ratio is 0.000846
+...I have tried 26977 palindromes (27000 rounds) and found 2 that pass the language model. My duplication ratio is 0.000815
+...I have tried 27977 palindromes (28000 rounds) and found 2 that pass the language model. My duplication ratio is 0.000786
+...I have tried 28976 palindromes (29000 rounds) and found 2 that pass the language model. My duplication ratio is 0.000793
+...I have tried 29976 palindromes (30000 rounds) and found 2 that pass the language model. My duplication ratio is 0.000767
+...I have tried 30975 palindromes (31000 rounds) and found 2 that pass the language model. My duplication ratio is 0.000774
+...I have tried 31971 palindromes (32000 rounds) and found 2 that pass the language model. My duplication ratio is 0.000875
+
+ vena gained rags using nimming nisus gardenia ganev 5.237507343292236
+Top contenders [('loca races oppose caracol', 5.787512302398682), ('vena gained rags using nimming nisus gardenia ganev', 5.237507343292236), ('waly bynames oppose many bylaw', 4.128014802932739)]
+...I have tried 32969 palindromes (33000 rounds) and found 3 that pass the language model. My duplication ratio is 0.000909
+#######FAILED but close: caresses opposes serac -4.996507406234741
+...I have tried 33968 palindromes (34000 rounds) and found 3 that pass the language model. My duplication ratio is 0.000912
+...I have tried 34967 palindromes (35000 rounds) and found 3 that pass the language model. My duplication ratio is 0.000914
+...I have tried 35967 palindromes (36000 rounds) and found 3 that pass the language model. My duplication ratio is 0.000889
+...I have tried 36967 palindromes (37000 rounds) and found 3 that pass the language model. My duplication ratio is 0.000865
+...I have tried 37965 palindromes (38000 rounds) and found 3 that pass the language model. My duplication ratio is 0.000895
+#######FAILED but close: crases opposes arc -1.0325495302677155
+...I have tried 38964 palindromes (39000 rounds) and found 3 that pass the language model. My duplication ratio is 0.000897
+...I have tried 39962 palindromes (40000 rounds) and found 3 that pass the language model. My duplication ratio is 0.000925
+...I have tried 40958 palindromes (41000 rounds) and found 3 that pass the language model. My duplication ratio is 0.001000
+...I have tried 41955 palindromes (42000 rounds) and found 3 that pass the language model. My duplication ratio is 0.001048
+
+ codes oppose doc 0.46973253646865487
+Top contenders [('loca races oppose caracol', 5.787512302398682), ('vena gained rags using nimming nisus gardenia ganev', 5.237507343292236), ('waly bynames oppose many bylaw', 4.128014802932739), ('codes oppose doc', 0.46973253646865487)]
+...I have tried 42953 palindromes (43000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001070
+...I have tried 43949 palindromes (44000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001136
+...I have tried 44949 palindromes (45000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001111
+...I have tried 45946 palindromes (46000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001152
+...I have tried 46942 palindromes (47000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001213
+...I have tried 47937 palindromes (48000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001292
+...I have tried 48933 palindromes (49000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001347
+...I have tried 49930 palindromes (50000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001380
+...I have tried 50928 palindromes (51000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001392
+...I have tried 51924 palindromes (52000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001442
+...I have tried 52920 palindromes (53000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001491
+...I have tried 53917 palindromes (54000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001519
+...I have tried 54913 palindromes (55000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001564
+...I have tried 55911 palindromes (56000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001571
+...I have tried 56905 palindromes (57000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001649
+...I have tried 57903 palindromes (58000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001655
+...I have tried 58903 palindromes (59000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001627
+...I have tried 59899 palindromes (60000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001667
+...I have tried 60896 palindromes (61000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001689
+...I have tried 61894 palindromes (62000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001694
+...I have tried 62892 palindromes (63000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001698
+...I have tried 63889 palindromes (64000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001719
+...I have tried 64887 palindromes (65000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001723
+...I have tried 65883 palindromes (66000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001758
+...I have tried 66881 palindromes (67000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001761
+...I have tried 67877 palindromes (68000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001794
+...I have tried 68868 palindromes (69000 rounds) and found 4 that pass the language model. My duplication ratio is 0.001899
+
+ rudd is siddur 8.388744115829468
+Top contenders [('rudd is siddur', 8.388744115829468), ('loca races oppose caracol', 5.787512302398682), ('vena gained rags using nimming nisus gardenia ganev', 5.237507343292236), ('waly bynames oppose many bylaw', 4.128014802932739), ('codes oppose doc', 0.46973253646865487)]
+...I have tried 69864 palindromes (70000 rounds) and found 5 that pass the language model. My duplication ratio is 0.001929
+...I have tried 70860 palindromes (71000 rounds) and found 5 that pass the language model. My duplication ratio is 0.001958
+...I have tried 71856 palindromes (72000 rounds) and found 5 that pass the language model. My duplication ratio is 0.001986
+...I have tried 72852 palindromes (73000 rounds) and found 5 that pass the language model. My duplication ratio is 0.002014
+...I have tried 73849 palindromes (74000 rounds) and found 5 that pass the language model. My duplication ratio is 0.002027
+...I have tried 74846 palindromes (75000 rounds) and found 5 that pass the language model. My duplication ratio is 0.002040
+
+ medieval see slave idem 7.740305185317993
+Top contenders [('rudd is siddur', 8.388744115829468), ('medieval see slave idem', 7.740305185317993), ('loca races oppose caracol', 5.787512302398682), ('vena gained rags using nimming nisus gardenia ganev', 5.237507343292236), ('waly bynames oppose many bylaw', 4.128014802932739)]
+...I have tried 75846 palindromes (76000 rounds) and found 6 that pass the language model. My duplication ratio is 0.002013
+...I have tried 76841 palindromes (77000 rounds) and found 6 that pass the language model. My duplication ratio is 0.002052
+...I have tried 77840 palindromes (78000 rounds) and found 6 that pass the language model. My duplication ratio is 0.002038
+...I have tried 78835 palindromes (79000 rounds) and found 6 that pass the language model. My duplication ratio is 0.002076
+...I have tried 79828 palindromes (80000 rounds) and found 6 that pass the language model. My duplication ratio is 0.002138
+...I have tried 80826 palindromes (81000 rounds) and found 6 that pass the language model. My duplication ratio is 0.002136
+...I have tried 81825 palindromes (82000 rounds) and found 6 that pass the language model. My duplication ratio is 0.002122
+...I have tried 82823 palindromes (83000 rounds) and found 6 that pass the language model. My duplication ratio is 0.002120
+#######FAILED but close: sonar possesses sopranos -3.2336891889572144
+...I have tried 83819 palindromes (84000 rounds) and found 6 that pass the language model. My duplication ratio is 0.002143
+...I have tried 84818 palindromes (85000 rounds) and found 6 that pass the language model. My duplication ratio is 0.002129
+...I have tried 85814 palindromes (86000 rounds) and found 6 that pass the language model. My duplication ratio is 0.002151
+...I have tried 86809 palindromes (87000 rounds) and found 6 that pass the language model. My duplication ratio is 0.002184
+...I have tried 87804 palindromes (88000 rounds) and found 6 that pass the language model. My duplication ratio is 0.002216
+...I have tried 88803 palindromes (89000 rounds) and found 6 that pass the language model. My duplication ratio is 0.002202
+...I have tried 89800 palindromes (90000 rounds) and found 6 that pass the language model. My duplication ratio is 0.002211
+...I have tried 90795 palindromes (91000 rounds) and found 6 that pass the language model. My duplication ratio is 0.002242
+...I have tried 91790 palindromes (92000 rounds) and found 6 that pass the language model. My duplication ratio is 0.002272
+...I have tried 92789 palindromes (93000 rounds) and found 6 that pass the language model. My duplication ratio is 0.002258
+...I have tried 93783 palindromes (94000 rounds) and found 6 that pass the language model. My duplication ratio is 0.002298
+...I have tried 94781 palindromes (95000 rounds) and found 6 that pass the language model. My duplication ratio is 0.002295
+
+ xis now won six 10.303784847259521
+Top contenders [('xis now won six', 10.303784847259521), ('rudd is siddur', 8.388744115829468), ('medieval see slave idem', 7.740305185317993), ('loca races oppose caracol', 5.787512302398682), ('vena gained rags using nimming nisus gardenia ganev', 5.237507343292236)]
+...I have tried 95778 palindromes (96000 rounds) and found 7 that pass the language model. My duplication ratio is 0.002302
+...I have tried 96776 palindromes (97000 rounds) and found 7 that pass the language model. My duplication ratio is 0.002299
+#######FAILED but close: trades oppose dart -1.254614233970642
+...I have tried 97774 palindromes (98000 rounds) and found 7 that pass the language model. My duplication ratio is 0.002296
+...I have tried 98772 palindromes (99000 rounds) and found 7 that pass the language model. My duplication ratio is 0.002293
+...I have tried 99770 palindromes (100000 rounds) and found 7 that pass the language model. My duplication ratio is 0.002290
+Reached round limit
+-----------------------------------
+xis now won six  -  10.303784847259521
+rudd is siddur  -  8.388744115829468
+medieval see slave idem  -  7.740305185317993
+loca races oppose caracol  -  5.787512302398682
+vena gained rags using nimming nisus gardenia ganev  -  5.237507343292236
+waly bynames oppose many bylaw  -  4.128014802932739
+codes oppose doc  -  0.46973253646865487
+-----------------------------------
+honorable mentions
+pipy names oppose many pip  -  0.8127783536911011
+crases opposes arc  -  1.0325495302677155
+trades oppose dart  -  1.254614233970642
+race disputes setup sidecar  -  1.893511176109314
+id losses opposes soldi  -  1.9449798464775085
+soudan named de manna duos  -  2.535173535346985
+sonar possesses sopranos  -  3.2336891889572144
+momes oppose mom  -  4.899617671966553
+caresses opposes serac  -  4.996507406234741
