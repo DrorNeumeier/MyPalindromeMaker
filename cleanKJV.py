@@ -28,7 +28,8 @@ for line in lines:
     words_ = sentence.split(" ")
     for word_i in range(len(words_)):
         word = words_[word_i]
-        if word_i>0 and word[0].isupper():
+        #if word_i>0 and word[0].isupper():
+        if word[0].isupper():
             #proper noun
             if word not in sentencesPerProperNouns.keys():
                 sentencesPerProperNouns[word] = set()
@@ -39,9 +40,6 @@ for line in lines:
 
     sentences.add(sentence.lower())
 
-print("is it in words?","mezahab" in words)
-print("is it in proper nouns?", "mezahab" in sentencesPerProperNouns.keys())
-
 wordsLeftOut = 0
 for word in sentencesPerProperNouns.keys():
     if len(sentencesPerProperNouns[word]) >= MIN_WORD_PREVELANCE:
@@ -49,7 +47,7 @@ for word in sentencesPerProperNouns.keys():
     else:
         if word.lower() not in words:
             wordsLeftOut = wordsLeftOut + 1
-            #print(word, sentencesPerProperNouns[word])
+            print(word, "           ",sentencesPerProperNouns[word])
 
 words = list(words)
 words.sort()
