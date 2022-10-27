@@ -11,7 +11,7 @@ words = set()
 sentences = set()
 sentencesPerProperNouns = {}
 
-MIN_WORD_PREVELANCE = 10
+MIN_WORD_PREVELANCE = 100
 
 for line in lines:
     words_ = line.split(" ")[1:]
@@ -43,11 +43,14 @@ for line in lines:
 wordsLeftOut = 0
 for word in sentencesPerProperNouns.keys():
     if len(sentencesPerProperNouns[word]) >= MIN_WORD_PREVELANCE:
+        if word.lower() not in words:
+            print(word, len(sentencesPerProperNouns[word]))
         words.add(word.lower())
+        
     else:
         if word.lower() not in words:
             wordsLeftOut = wordsLeftOut + 1
-            print(word, "           ",sentencesPerProperNouns[word])
+            #print(word, "          ",sentencesPerProperNouns[word])
 
 words = list(words)
 words.sort()
