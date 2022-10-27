@@ -1,0 +1,541 @@
+Making palindromes using dictionary: Wikipedia:wiki
+#######FAILED but close: oi sa coot too casio -4.505831956863403
+#######FAILED but close: ana suffusa na -4.587576627731323
+#######FAILED but close: ell omar assara molle -4.684063911437988
+#######FAILED but close: en elisa suffusa silene -4.331777811050415
+#######FAILED but close: gnoma sotos sotos among -1.5727559328079224
+...I have tried 999 palindromes (1000 rounds) and found 0 that pass the language model. My duplication ratio is 0.000000
+
+ fide enraged a motto made gar need if 5.031489610671997
+Top contenders [('fide enraged a motto made gar need if', 5.031489610671997)]
+...I have tried 1999 palindromes (2000 rounds) and found 1 that pass the language model. My duplication ratio is 0.000000
+
+ lob mysore a racecar racecar aero symbol  5.559723615646362
+Top contenders [('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('fide enraged a motto made gar need if', 5.031489610671997)]
+
+ alone annae nola 0.19350852072238922
+Top contenders [('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('fide enraged a motto made gar need if', 5.031489610671997), ('alone annae nola', 0.19350852072238922)]
+...I have tried 2999 palindromes (3000 rounds) and found 3 that pass the language model. My duplication ratio is 0.000000
+#######FAILED but close: fc otto cf -4.937893390655518
+
+ yo min nimoy 0.19607535004615784
+Top contenders [('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('fide enraged a motto made gar need if', 5.031489610671997), ('yo min nimoy', 0.19607535004615784), ('alone annae nola', 0.19350852072238922)]
+
+ emits apes oppose pastime 3.604616641998291
+Top contenders [('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('fide enraged a motto made gar need if', 5.031489610671997), ('emits apes oppose pastime', 3.604616641998291), ('yo min nimoy', 0.19607535004615784), ('alone annae nola', 0.19350852072238922)]
+...I have tried 3999 palindromes (4000 rounds) and found 5 that pass the language model. My duplication ratio is 0.000000
+...I have tried 4997 palindromes (5000 rounds) and found 5 that pass the language model. My duplication ratio is 0.000400
+#######FAILED but close: kola ye annae ya lok -0.8736195862293243
+...I have tried 5996 palindromes (6000 rounds) and found 5 that pass the language model. My duplication ratio is 0.000500
+#######FAILED but close: otus su to  -4.747971296310425
+
+ nassa hanna hassan 1.3533735275268555
+Top contenders [('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('fide enraged a motto made gar need if', 5.031489610671997), ('emits apes oppose pastime', 3.604616641998291), ('nassa hanna hassan', 1.3533735275268555), ('yo min nimoy', 0.19607535004615784)]
+#######FAILED but close: operon deed no repo -4.972383499145508
+...I have tried 6992 palindromes (7000 rounds) and found 6 that pass the language model. My duplication ratio is 0.001000
+...I have tried 7992 palindromes (8000 rounds) and found 6 that pass the language model. My duplication ratio is 0.000875
+#######FAILED but close: usta viettei vat su -3.076578378677368
+#######FAILED but close: al en apes oppose panela -4.662942886352539
+...I have tried 8991 palindromes (9000 rounds) and found 6 that pass the language model. My duplication ratio is 0.000889
+
+ rubies or rosei bur 6.758991003036499
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('fide enraged a motto made gar need if', 5.031489610671997), ('emits apes oppose pastime', 3.604616641998291), ('nassa hanna hassan', 1.3533735275268555)]
+#######FAILED but close: sisurcana otto anacrusis -2.325404167175293
+...I have tried 9991 palindromes (10000 rounds) and found 7 that pass the language model. My duplication ratio is 0.000800
+...I have tried 10989 palindromes (11000 rounds) and found 7 that pass the language model. My duplication ratio is 0.000909
+
+ damon loved art trade vol nomad 4.310266733169556
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('fide enraged a motto made gar need if', 5.031489610671997), ('damon loved art trade vol nomad', 4.310266733169556), ('emits apes oppose pastime', 3.604616641998291)]
+#######FAILED but close: luo fall afoul -2.046422064304352
+
+ o todo roll oro doto 1.5711296796798706
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('fide enraged a motto made gar need if', 5.031489610671997), ('damon loved art trade vol nomad', 4.310266733169556), ('emits apes oppose pastime', 3.604616641998291)]
+...I have tried 11989 palindromes (12000 rounds) and found 9 that pass the language model. My duplication ratio is 0.000833
+#######FAILED but close: e deus suede -1.8065802454948425
+...I have tried 12987 palindromes (13000 rounds) and found 9 that pass the language model. My duplication ratio is 0.000923
+
+ let tam foliated detail of mattel 3.0280176401138306
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('fide enraged a motto made gar need if', 5.031489610671997), ('damon loved art trade vol nomad', 4.310266733169556), ('emits apes oppose pastime', 3.604616641998291)]
+...I have tried 13987 palindromes (14000 rounds) and found 10 that pass the language model. My duplication ratio is 0.000857
+#######FAILED but close:  uremia ai meru -3.7165287733078003
+
+ ye boll obey 2.3427581787109375
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('fide enraged a motto made gar need if', 5.031489610671997), ('damon loved art trade vol nomad', 4.310266733169556), ('emits apes oppose pastime', 3.604616641998291)]
+#######FAILED but close: cf poop fc -2.4992096424102783
+...I have tried 14986 palindromes (15000 rounds) and found 11 that pass the language model. My duplication ratio is 0.000867
+#######FAILED but close: vestalis silat sev -4.542454719543457
+...I have tried 15983 palindromes (16000 rounds) and found 11 that pass the language model. My duplication ratio is 0.001000
+#######FAILED but close: ell omelet tele molle -1.4751094579696655
+...I have tried 16983 palindromes (17000 rounds) and found 11 that pass the language model. My duplication ratio is 0.000941
+#######FAILED but close: mr a fee farm -1.304660052061081
+
+ trapania hcl odia puts stupa idol chain apart 2.2455866932868958
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('fide enraged a motto made gar need if', 5.031489610671997), ('damon loved art trade vol nomad', 4.310266733169556), ('emits apes oppose pastime', 3.604616641998291)]
+...I have tried 17980 palindromes (18000 rounds) and found 12 that pass the language model. My duplication ratio is 0.001056
+
+ ire somatina anita moseri 2.383133888244629
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('fide enraged a motto made gar need if', 5.031489610671997), ('damon loved art trade vol nomad', 4.310266733169556), ('emits apes oppose pastime', 3.604616641998291)]
+...I have tried 18976 palindromes (19000 rounds) and found 13 that pass the language model. My duplication ratio is 0.001211
+#######FAILED but close: ryan ellen ayr -3.9261802434921265
+#######FAILED but close: neil lien  -0.2636372409760952
+#######FAILED but close: uremia ragga rai meru  -3.543423891067505
+
+ welsh teeth slew 0.2394702434539795
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('fide enraged a motto made gar need if', 5.031489610671997), ('damon loved art trade vol nomad', 4.310266733169556), ('emits apes oppose pastime', 3.604616641998291)]
+...I have tried 19973 palindromes (20000 rounds) and found 14 that pass the language model. My duplication ratio is 0.001300
+#######FAILED but close: gasses opposes sag -1.4886390566825867
+#######FAILED but close: ii dara suffusa radii -4.441820383071899
+...I have tried 20969 palindromes (21000 rounds) and found 14 that pass the language model. My duplication ratio is 0.001429
+#######FAILED but close: nina lema cronin used ogre ergo de sun in orca melanin -1.7066307067871094
+
+ llama suffusa mall 2.353609800338745
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('fide enraged a motto made gar need if', 5.031489610671997), ('damon loved art trade vol nomad', 4.310266733169556), ('emits apes oppose pastime', 3.604616641998291)]
+#######FAILED but close: un emo o menu -4.530506372451782
+...I have tried 21968 palindromes (22000 rounds) and found 15 that pass the language model. My duplication ratio is 0.001409
+#######FAILED but close: aryl saas lyra -3.71593701839447
+...I have tried 22965 palindromes (23000 rounds) and found 15 that pass the language model. My duplication ratio is 0.001478
+#######FAILED but close: gofasi le elisa fog -4.812805891036987
+...I have tried 23964 palindromes (24000 rounds) and found 15 that pass the language model. My duplication ratio is 0.001458
+...I have tried 24962 palindromes (25000 rounds) and found 15 that pass the language model. My duplication ratio is 0.001480
+
+ pompom mop mop  0.47153978049755096
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('fide enraged a motto made gar need if', 5.031489610671997), ('damon loved art trade vol nomad', 4.310266733169556), ('emits apes oppose pastime', 3.604616641998291)]
+
+ among welsh kisses opposes sikh slew gnoma 5.25581955909729
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('among welsh kisses opposes sikh slew gnoma', 5.25581955909729), ('fide enraged a motto made gar need if', 5.031489610671997), ('damon loved art trade vol nomad', 4.310266733169556)]
+...I have tried 25957 palindromes (26000 rounds) and found 17 that pass the language model. My duplication ratio is 0.001615
+...I have tried 26957 palindromes (27000 rounds) and found 17 that pass the language model. My duplication ratio is 0.001556
+...I have tried 27955 palindromes (28000 rounds) and found 17 that pass the language model. My duplication ratio is 0.001571
+...I have tried 28953 palindromes (29000 rounds) and found 17 that pass the language model. My duplication ratio is 0.001586
+#######FAILED but close: ai gilled del ligia -2.43770694732666
+#######FAILED but close: zappa praenomen nemo near pap paz  -4.463774681091309
+
+ yoruba bees see babu roy 0.48825235664844513
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('among welsh kisses opposes sikh slew gnoma', 5.25581955909729), ('fide enraged a motto made gar need if', 5.031489610671997), ('damon loved art trade vol nomad', 4.310266733169556)]
+...I have tried 29949 palindromes (30000 rounds) and found 18 that pass the language model. My duplication ratio is 0.001667
+#######FAILED but close: yams deeds may -1.812965452671051
+#######FAILED but close: emacs tonk knots came -2.7832276821136475
+...I have tried 30947 palindromes (31000 rounds) and found 18 that pass the language model. My duplication ratio is 0.001677
+...I have tried 31945 palindromes (32000 rounds) and found 18 that pass the language model. My duplication ratio is 0.001687
+#######FAILED but close: tenet e annae tenet  -4.951548099517822
+#######FAILED but close: keel see sleek  -1.1951696872711182
+#######FAILED but close: yaw liar railway -3.9727163314819336
+...I have tried 32940 palindromes (33000 rounds) and found 18 that pass the language model. My duplication ratio is 0.001788
+
+ saas dos sod saas 3.723801612854004
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('among welsh kisses opposes sikh slew gnoma', 5.25581955909729), ('fide enraged a motto made gar need if', 5.031489610671997), ('damon loved art trade vol nomad', 4.310266733169556)]
+...I have tried 33935 palindromes (34000 rounds) and found 19 that pass the language model. My duplication ratio is 0.001882
+#######FAILED but close: naris villi vs iran -2.4585052728652954
+...I have tried 34930 palindromes (35000 rounds) and found 19 that pass the language model. My duplication ratio is 0.001971
+#######FAILED but close:  called dell ac -2.817255139350891
+...I have tried 35926 palindromes (36000 rounds) and found 19 that pass the language model. My duplication ratio is 0.002028
+
+ luo from its deeds timor foul 1.461021363735199
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('among welsh kisses opposes sikh slew gnoma', 5.25581955909729), ('fide enraged a motto made gar need if', 5.031489610671997), ('damon loved art trade vol nomad', 4.310266733169556)]
+...I have tried 36921 palindromes (37000 rounds) and found 20 that pass the language model. My duplication ratio is 0.002108
+#######FAILED but close: yaw bus subway -0.5922010354697704
+
+ yale drives oppose vir delay 3.127007007598877
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('among welsh kisses opposes sikh slew gnoma', 5.25581955909729), ('fide enraged a motto made gar need if', 5.031489610671997), ('damon loved art trade vol nomad', 4.310266733169556)]
+#######FAILED but close: id na nomen nemo nandi -2.0419644117355347
+#######FAILED but close: psara suffusa rasp -2.5793468952178955
+...I have tried 37915 palindromes (38000 rounds) and found 21 that pass the language model. My duplication ratio is 0.002211
+#######FAILED but close: s rood doors -2.7850974798202515
+#######FAILED but close: if uses oppose sufi -4.672225475311279
+...I have tried 38912 palindromes (39000 rounds) and found 21 that pass the language model. My duplication ratio is 0.002231
+#######FAILED but close: diva dalla david -4.4833831787109375
+
+ llama citruses opposes urtica mall 2.4121111631393433
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('among welsh kisses opposes sikh slew gnoma', 5.25581955909729), ('fide enraged a motto made gar need if', 5.031489610671997), ('damon loved art trade vol nomad', 4.310266733169556)]
+
+ trope lets deeds teleport 5.718256235122681
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('trope lets deeds teleport', 5.718256235122681), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('among welsh kisses opposes sikh slew gnoma', 5.25581955909729), ('fide enraged a motto made gar need if', 5.031489610671997)]
+
+ nina lemmonii nom melanin 0.18095798790454865
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('trope lets deeds teleport', 5.718256235122681), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('among welsh kisses opposes sikh slew gnoma', 5.25581955909729), ('fide enraged a motto made gar need if', 5.031489610671997)]
+...I have tried 39906 palindromes (40000 rounds) and found 24 that pass the language model. My duplication ratio is 0.002325
+
+  omental warps sprawl at nemo 3.4975427389144897
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('trope lets deeds teleport', 5.718256235122681), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('among welsh kisses opposes sikh slew gnoma', 5.25581955909729), ('fide enraged a motto made gar need if', 5.031489610671997)]
+
+ i won see snowi 5.220363616943359
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('trope lets deeds teleport', 5.718256235122681), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('among welsh kisses opposes sikh slew gnoma', 5.25581955909729), ('i won see snowi', 5.220363616943359)]
+#######FAILED but close: meena kip pika neem -0.8929815590381622
+#######FAILED but close: ya hilli hay -4.686047554016113
+...I have tried 40905 palindromes (41000 rounds) and found 26 that pass the language model. My duplication ratio is 0.002293
+
+  noon  2.720535397529602
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('trope lets deeds teleport', 5.718256235122681), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('among welsh kisses opposes sikh slew gnoma', 5.25581955909729), ('i won see snowi', 5.220363616943359)]
+#######FAILED but close: uremia baba suffusa babai meru -3.7982183694839478
+
+ meena suffusa neem 6.221532583236694
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('among welsh kisses opposes sikh slew gnoma', 5.25581955909729)]
+...I have tried 41901 palindromes (42000 rounds) and found 28 that pass the language model. My duplication ratio is 0.002333
+#######FAILED but close: voter apes oppose pareto v -4.37962281703949
+...I have tried 42897 palindromes (43000 rounds) and found 28 that pass the language model. My duplication ratio is 0.002372
+#######FAILED but close: foes oppose of  -3.5900343656539917
+#######FAILED but close: uremia mi bur rubi mai meru -4.488298654556274
+...I have tried 43893 palindromes (44000 rounds) and found 28 that pass the language model. My duplication ratio is 0.002409
+#######FAILED but close: ryan likes oppose kiln ayr -4.438614845275879
+#######FAILED but close: talis aa silat -4.796369314193726
+...I have tried 44888 palindromes (45000 rounds) and found 28 that pass the language model. My duplication ratio is 0.002467
+#######FAILED but close:  ius sui -4.202603340148926
+...I have tried 45884 palindromes (46000 rounds) and found 28 that pass the language model. My duplication ratio is 0.002500
+#######FAILED but close: il or a cor off oro caroli -4.324929714202881
+
+ udea von novae du 0.3111381083726883
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('among welsh kisses opposes sikh slew gnoma', 5.25581955909729)]
+...I have tried 46881 palindromes (47000 rounds) and found 29 that pass the language model. My duplication ratio is 0.002511
+
+ ive dalla devi 4.657480239868164
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('among welsh kisses opposes sikh slew gnoma', 5.25581955909729)]
+#######FAILED but close: yaw rood doorway -3.1381813287734985
+#######FAILED but close: fides opposed if -2.9306397438049316
+...I have tried 47876 palindromes (48000 rounds) and found 30 that pass the language model. My duplication ratio is 0.002563
+#######FAILED but close: gasses opposes opposes opposes sag -1.779032289981842
+#######FAILED but close: simon avery as say rev anomis -0.46168649196624756
+#######FAILED but close:  aryl lyra -2.2491238117218018
+#######FAILED but close: ryan made noone damn ayr -3.672336220741272
+#######FAILED but close: usta vos so vat su  -0.1753579080104828
+...I have tried 48872 palindromes (49000 rounds) and found 30 that pass the language model. My duplication ratio is 0.002592
+
+ ryan liked de kiln ayr 2.8924777507781982
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('among welsh kisses opposes sikh slew gnoma', 5.25581955909729)]
+#######FAILED but close: weston nacelle cannot sew -3.8450387716293335
+...I have tried 49870 palindromes (50000 rounds) and found 31 that pass the language model. My duplication ratio is 0.002580
+#######FAILED but close: hal la allah -4.229551792144775
+#######FAILED but close: diana dalla danaid -2.2456056475639343
+...I have tried 50869 palindromes (51000 rounds) and found 31 that pass the language model. My duplication ratio is 0.002549
+
+ onoff ono onoff ono 1.477620005607605
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('among welsh kisses opposes sikh slew gnoma', 5.25581955909729)]
+...I have tried 51865 palindromes (52000 rounds) and found 32 that pass the language model. My duplication ratio is 0.002577
+
+ swaps across orcas paws 0.8755847215652466
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('among welsh kisses opposes sikh slew gnoma', 5.25581955909729)]
+...I have tried 52862 palindromes (53000 rounds) and found 33 that pass the language model. My duplication ratio is 0.002585
+
+ enol all alone 4.001393914222717
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('among welsh kisses opposes sikh slew gnoma', 5.25581955909729)]
+#######FAILED but close: kelp off op lek -3.330631732940674
+...I have tried 53857 palindromes (54000 rounds) and found 34 that pass the language model. My duplication ratio is 0.002630
+#######FAILED but close: lyra oris siro aryl -2.9713704586029053
+#######FAILED but close: ius sui  -4.202603340148926
+...I have tried 54854 palindromes (55000 rounds) and found 34 that pass the language model. My duplication ratio is 0.002636
+...I have tried 55845 palindromes (56000 rounds) and found 34 that pass the language model. My duplication ratio is 0.002750
+...I have tried 56843 palindromes (57000 rounds) and found 34 that pass the language model. My duplication ratio is 0.002737
+#######FAILED but close:  un egesina anise genu -3.0629003047943115
+...I have tried 57839 palindromes (58000 rounds) and found 34 that pass the language model. My duplication ratio is 0.002759
+#######FAILED but close: una suffusa nu -4.637897968292236
+...I have tried 58836 palindromes (59000 rounds) and found 34 that pass the language model. My duplication ratio is 0.002763
+...I have tried 59832 palindromes (60000 rounds) and found 34 that pass the language model. My duplication ratio is 0.002783
+
+ did rosette sordid 0.13777310028672218
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('among welsh kisses opposes sikh slew gnoma', 5.25581955909729)]
+...I have tried 60828 palindromes (61000 rounds) and found 35 that pass the language model. My duplication ratio is 0.002803
+...I have tried 61824 palindromes (62000 rounds) and found 35 that pass the language model. My duplication ratio is 0.002823
+...I have tried 62814 palindromes (63000 rounds) and found 35 that pass the language model. My duplication ratio is 0.002937
+
+ he caves sev aceh 0.47628363966941833
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('among welsh kisses opposes sikh slew gnoma', 5.25581955909729)]
+#######FAILED but close: mi eid die im -3.9315816164016724
+
+ tropes oppose port 0.6807045489549637
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('among welsh kisses opposes sikh slew gnoma', 5.25581955909729)]
+#######FAILED but close: iota lista at silat oi -2.4233232736587524
+...I have tried 63810 palindromes (64000 rounds) and found 37 that pass the language model. My duplication ratio is 0.002953
+...I have tried 64804 palindromes (65000 rounds) and found 37 that pass the language model. My duplication ratio is 0.003000
+
+ feeble has deified deified sahel beef 4.231544256210327
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('among welsh kisses opposes sikh slew gnoma', 5.25581955909729)]
+...I have tried 65800 palindromes (66000 rounds) and found 38 that pass the language model. My duplication ratio is 0.003015
+
+ aha saas aha 4.370539665222168
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('among welsh kisses opposes sikh slew gnoma', 5.25581955909729)]
+#######FAILED but close: aha finn if aha -4.802122354507446
+...I have tried 66794 palindromes (67000 rounds) and found 39 that pass the language model. My duplication ratio is 0.003060
+...I have tried 67789 palindromes (68000 rounds) and found 39 that pass the language model. My duplication ratio is 0.003088
+
+ ruff off of fur 1.2244061827659607
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('among welsh kisses opposes sikh slew gnoma', 5.25581955909729)]
+...I have tried 68785 palindromes (69000 rounds) and found 40 that pass the language model. My duplication ratio is 0.003101
+#######FAILED but close: vestita suffusa tit sev -3.7874799966812134
+...I have tried 69782 palindromes (70000 rounds) and found 40 that pass the language model. My duplication ratio is 0.003100
+...I have tried 70778 palindromes (71000 rounds) and found 40 that pass the language model. My duplication ratio is 0.003113
+#######FAILED but close:  mined denim -3.0435036420822144
+#######FAILED but close: foam games oppose magma of -3.277946710586548
+#######FAILED but close: oi tarsi is ratio -1.168451189994812
+#######FAILED but close: oi ramus su mario -4.447293043136597
+...I have tried 71774 palindromes (72000 rounds) and found 40 that pass the language model. My duplication ratio is 0.003125
+
+ nama ragga raman 1.1560965180397034
+Top contenders [('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362), ('among welsh kisses opposes sikh slew gnoma', 5.25581955909729)]
+
+ if olden words deeds drowned lofi 6.942990779876709
+Top contenders [('if olden words deeds drowned lofi', 6.942990779876709), ('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362)]
+
+ omen unser res nun emo 0.2957949787378311
+Top contenders [('if olden words deeds drowned lofi', 6.942990779876709), ('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362)]
+#######FAILED but close: uremic from arc cram or fc i meru -4.327163577079773
+...I have tried 72772 palindromes (73000 rounds) and found 43 that pass the language model. My duplication ratio is 0.003110
+#######FAILED but close: laeve annae veal -4.084205865859985
+
+ flaccid eves oppose vedic calf 1.553201138973236
+Top contenders [('if olden words deeds drowned lofi', 6.942990779876709), ('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362)]
+...I have tried 73769 palindromes (74000 rounds) and found 44 that pass the language model. My duplication ratio is 0.003108
+#######FAILED but close: an given era arene vigna -3.1541298627853394
+#######FAILED but close: aryl lyra  -2.2491238117218018
+
+ albata suffusa tabla 1.2465627789497375
+Top contenders [('if olden words deeds drowned lofi', 6.942990779876709), ('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681), ('lob mysore a racecar racecar aero symbol ', 5.559723615646362)]
+...I have tried 74764 palindromes (75000 rounds) and found 45 that pass the language model. My duplication ratio is 0.003133
+...I have tried 75756 palindromes (76000 rounds) and found 45 that pass the language model. My duplication ratio is 0.003197
+
+ tubes pass apse but 8.708367824554443
+Top contenders [('tubes pass apse but', 8.708367824554443), ('if olden words deeds drowned lofi', 6.942990779876709), ('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681)]
+...I have tried 76751 palindromes (77000 rounds) and found 46 that pass the language model. My duplication ratio is 0.003221
+
+ paradoris siro da rap 0.46209658682346344
+Top contenders [('tubes pass apse but', 8.708367824554443), ('if olden words deeds drowned lofi', 6.942990779876709), ('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681)]
+
+ not lad dalton 1.9367005825042725
+Top contenders [('tubes pass apse but', 8.708367824554443), ('if olden words deeds drowned lofi', 6.942990779876709), ('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681)]
+#######FAILED but close: xeric recalled della cerci rex -4.734743595123291
+...I have tried 77746 palindromes (78000 rounds) and found 48 that pass the language model. My duplication ratio is 0.003244
+#######FAILED but close: rawer praenomen nemo near prewar -0.7978521101176739
+#######FAILED but close: oar kola lok kola lok rao -2.767487406730652
+...I have tried 78742 palindromes (79000 rounds) and found 48 that pass the language model. My duplication ratio is 0.003253
+...I have tried 79737 palindromes (80000 rounds) and found 48 that pass the language model. My duplication ratio is 0.003275
+
+ nama ragga raman  1.1560965180397034
+Top contenders [('tubes pass apse but', 8.708367824554443), ('if olden words deeds drowned lofi', 6.942990779876709), ('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681)]
+#######FAILED but close: tangara lata suffusa talara gnat -3.8282185792922974
+#######FAILED but close: deus aa sued -4.755644083023071
+...I have tried 80730 palindromes (81000 rounds) and found 49 that pass the language model. My duplication ratio is 0.003321
+#######FAILED but close: gnoma peep among -4.9705119132995605
+
+ wes till it sew  3.290229082107544
+Top contenders [('tubes pass apse but', 8.708367824554443), ('if olden words deeds drowned lofi', 6.942990779876709), ('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681)]
+...I have tried 81726 palindromes (82000 rounds) and found 50 that pass the language model. My duplication ratio is 0.003329
+
+ vedic recall a cerci dev 0.6818132251501083
+Top contenders [('tubes pass apse but', 8.708367824554443), ('if olden words deeds drowned lofi', 6.942990779876709), ('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681)]
+...I have tried 82722 palindromes (83000 rounds) and found 51 that pass the language model. My duplication ratio is 0.003337
+
+  nia dross ordain 0.07578638661652803
+Top contenders [('tubes pass apse but', 8.708367824554443), ('if olden words deeds drowned lofi', 6.942990779876709), ('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681)]
+#######FAILED but close: wondered wop powdered now -2.3710700273513794
+...I have tried 83719 palindromes (84000 rounds) and found 52 that pass the language model. My duplication ratio is 0.003333
+#######FAILED but close: nudum mu dun -0.43787893652915955
+...I have tried 84718 palindromes (85000 rounds) and found 52 that pass the language model. My duplication ratio is 0.003306
+...I have tried 85712 palindromes (86000 rounds) and found 52 that pass the language model. My duplication ratio is 0.003337
+#######FAILED but close: bruce noone curb -3.8118155002593994
+
+ gujarati saved deva sitar a jug 2.731735348701477
+Top contenders [('tubes pass apse but', 8.708367824554443), ('if olden words deeds drowned lofi', 6.942990779876709), ('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681)]
+...I have tried 86703 palindromes (87000 rounds) and found 53 that pass the language model. My duplication ratio is 0.003402
+#######FAILED but close: imam u umami -4.8416712284088135
+
+ aha aa aha 1.5128304958343506
+Top contenders [('tubes pass apse but', 8.708367824554443), ('if olden words deeds drowned lofi', 6.942990779876709), ('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694), ('trope lets deeds teleport', 5.718256235122681)]
+...I have tried 87696 palindromes (88000 rounds) and found 54 that pass the language model. My duplication ratio is 0.003443
+...I have tried 88689 palindromes (89000 rounds) and found 54 that pass the language model. My duplication ratio is 0.003483
+#######FAILED but close: ire soma suffusa moseri -2.0651198625564575
+
+ tcell ocotea lets stelae to collect 7.499650955200195
+Top contenders [('tubes pass apse but', 8.708367824554443), ('tcell ocotea lets stelae to collect', 7.499650955200195), ('if olden words deeds drowned lofi', 6.942990779876709), ('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694)]
+...I have tried 89685 palindromes (90000 rounds) and found 55 that pass the language model. My duplication ratio is 0.003489
+#######FAILED but close: finn if  -3.9974920749664307
+#######FAILED but close:  te luma amulet -4.671025514602661
+...I have tried 90681 palindromes (91000 rounds) and found 55 that pass the language model. My duplication ratio is 0.003495
+#######FAILED but close: anita lee latina -4.409071683883667
+#######FAILED but close: oar aa rao -0.016304917633533478
+
+ an raves oppose varna 1.222543478012085
+Top contenders [('tubes pass apse but', 8.708367824554443), ('tcell ocotea lets stelae to collect', 7.499650955200195), ('if olden words deeds drowned lofi', 6.942990779876709), ('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694)]
+...I have tried 91676 palindromes (92000 rounds) and found 56 that pass the language model. My duplication ratio is 0.003511
+...I have tried 92671 palindromes (93000 rounds) and found 56 that pass the language model. My duplication ratio is 0.003527
+
+ tinker all are knit 3.274235486984253
+Top contenders [('tubes pass apse but', 8.708367824554443), ('tcell ocotea lets stelae to collect', 7.499650955200195), ('if olden words deeds drowned lofi', 6.942990779876709), ('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694)]
+...I have tried 93665 palindromes (94000 rounds) and found 57 that pass the language model. My duplication ratio is 0.003553
+...I have tried 94662 palindromes (95000 rounds) and found 57 that pass the language model. My duplication ratio is 0.003547
+...I have tried 95657 palindromes (96000 rounds) and found 57 that pass the language model. My duplication ratio is 0.003563
+...I have tried 96651 palindromes (97000 rounds) and found 57 that pass the language model. My duplication ratio is 0.003588
+#######FAILED but close: kelantan garra gnat na lek -2.0073124766349792
+#######FAILED but close: hcl umpires oppose rip mulch -2.201683819293976
+#######FAILED but close:  fc snub buns cf -3.666923999786377
+...I have tried 97645 palindromes (98000 rounds) and found 57 that pass the language model. My duplication ratio is 0.003612
+#######FAILED but close: you bee buoy  -2.969164729118347
+
+ daedalus ni vedic sagas sees sag asci dev insula dead 0.11648797988891602
+Top contenders [('tubes pass apse but', 8.708367824554443), ('tcell ocotea lets stelae to collect', 7.499650955200195), ('if olden words deeds drowned lofi', 6.942990779876709), ('rubies or rosei bur', 6.758991003036499), ('meena suffusa neem', 6.221532583236694)]
+...I have tried 98633 palindromes (99000 rounds) and found 58 that pass the language model. My duplication ratio is 0.003697
+#######FAILED but close:  bob bob -4.224045753479004
+#######FAILED but close: uremic of foci meru -1.331651508808136
+#######FAILED but close: lyra aryl  -2.5538547039031982
+...I have tried 99629 palindromes (100000 rounds) and found 58 that pass the language model. My duplication ratio is 0.003700
+Reached round limit
+-----------------------------------
+tubes pass apse but  -  8.708367824554443
+tcell ocotea lets stelae to collect  -  7.499650955200195
+if olden words deeds drowned lofi  -  6.942990779876709
+rubies or rosei bur  -  6.758991003036499
+meena suffusa neem  -  6.221532583236694
+trope lets deeds teleport  -  5.718256235122681
+lob mysore a racecar racecar aero symbol   -  5.559723615646362
+among welsh kisses opposes sikh slew gnoma  -  5.25581955909729
+i won see snowi  -  5.220363616943359
+fide enraged a motto made gar need if  -  5.031489610671997
+ive dalla devi  -  4.657480239868164
+aha saas aha  -  4.370539665222168
+damon loved art trade vol nomad  -  4.310266733169556
+feeble has deified deified sahel beef  -  4.231544256210327
+enol all alone  -  4.001393914222717
+saas dos sod saas  -  3.723801612854004
+emits apes oppose pastime  -  3.604616641998291
+ omental warps sprawl at nemo  -  3.4975427389144897
+wes till it sew   -  3.290229082107544
+tinker all are knit  -  3.274235486984253
+yale drives oppose vir delay  -  3.127007007598877
+let tam foliated detail of mattel  -  3.0280176401138306
+ryan liked de kiln ayr  -  2.8924777507781982
+gujarati saved deva sitar a jug  -  2.731735348701477
+ noon   -  2.720535397529602
+llama citruses opposes urtica mall  -  2.4121111631393433
+ire somatina anita moseri  -  2.383133888244629
+llama suffusa mall  -  2.353609800338745
+ye boll obey  -  2.3427581787109375
+trapania hcl odia puts stupa idol chain apart  -  2.2455866932868958
+not lad dalton  -  1.9367005825042725
+o todo roll oro doto  -  1.5711296796798706
+flaccid eves oppose vedic calf  -  1.553201138973236
+aha aa aha  -  1.5128304958343506
+onoff ono onoff ono  -  1.477620005607605
+luo from its deeds timor foul  -  1.461021363735199
+nassa hanna hassan  -  1.3533735275268555
+albata suffusa tabla  -  1.2465627789497375
+ruff off of fur  -  1.2244061827659607
+an raves oppose varna  -  1.222543478012085
+nama ragga raman  -  1.1560965180397034
+nama ragga raman   -  1.1560965180397034
+swaps across orcas paws  -  0.8755847215652466
+vedic recall a cerci dev  -  0.6818132251501083
+tropes oppose port  -  0.6807045489549637
+yoruba bees see babu roy  -  0.48825235664844513
+he caves sev aceh  -  0.47628363966941833
+pompom mop mop   -  0.47153978049755096
+paradoris siro da rap  -  0.46209658682346344
+udea von novae du  -  0.3111381083726883
+omen unser res nun emo  -  0.2957949787378311
+welsh teeth slew  -  0.2394702434539795
+yo min nimoy  -  0.19607535004615784
+alone annae nola  -  0.19350852072238922
+nina lemmonii nom melanin  -  0.18095798790454865
+did rosette sordid  -  0.13777310028672218
+daedalus ni vedic sagas sees sag asci dev insula dead  -  0.11648797988891602
+ nia dross ordain  -  0.07578638661652803
+-----------------------------------
+honorable mentions
+oar aa rao  -  0.016304917633533478
+usta vos so vat su   -  0.1753579080104828
+neil lien   -  0.2636372409760952
+nudum mu dun  -  0.43787893652915955
+simon avery as say rev anomis  -  0.46168649196624756
+yaw bus subway  -  0.5922010354697704
+rawer praenomen nemo near prewar  -  0.7978521101176739
+kola ye annae ya lok  -  0.8736195862293243
+meena kip pika neem  -  0.8929815590381622
+oi tarsi is ratio  -  1.168451189994812
+keel see sleek   -  1.1951696872711182
+mr a fee farm  -  1.304660052061081
+uremic of foci meru  -  1.331651508808136
+ell omelet tele molle  -  1.4751094579696655
+gasses opposes sag  -  1.4886390566825867
+gnoma sotos sotos among  -  1.5727559328079224
+nina lema cronin used ogre ergo de sun in orca melanin  -  1.7066307067871094
+gasses opposes opposes opposes sag  -  1.779032289981842
+e deus suede  -  1.8065802454948425
+yams deeds may  -  1.812965452671051
+kelantan garra gnat na lek  -  2.0073124766349792
+id na nomen nemo nandi  -  2.0419644117355347
+luo fall afoul  -  2.046422064304352
+ire soma suffusa moseri  -  2.0651198625564575
+hcl umpires oppose rip mulch  -  2.201683819293976
+diana dalla danaid  -  2.2456056475639343
+ aryl lyra  -  2.2491238117218018
+aryl lyra   -  2.2491238117218018
+sisurcana otto anacrusis  -  2.325404167175293
+wondered wop powdered now  -  2.3710700273513794
+iota lista at silat oi  -  2.4233232736587524
+ai gilled del ligia  -  2.43770694732666
+naris villi vs iran  -  2.4585052728652954
+cf poop fc  -  2.4992096424102783
+lyra aryl   -  2.5538547039031982
+psara suffusa rasp  -  2.5793468952178955
+oar kola lok kola lok rao  -  2.767487406730652
+emacs tonk knots came  -  2.7832276821136475
+s rood doors  -  2.7850974798202515
+ called dell ac  -  2.817255139350891
+fides opposed if  -  2.9306397438049316
+you bee buoy   -  2.969164729118347
+lyra oris siro aryl  -  2.9713704586029053
+ mined denim  -  3.0435036420822144
+ un egesina anise genu  -  3.0629003047943115
+usta viettei vat su  -  3.076578378677368
+yaw rood doorway  -  3.1381813287734985
+an given era arene vigna  -  3.1541298627853394
+foam games oppose magma of  -  3.277946710586548
+kelp off op lek  -  3.330631732940674
+uremia ragga rai meru   -  3.543423891067505
+foes oppose of   -  3.5900343656539917
+ fc snub buns cf  -  3.666923999786377
+ryan made noone damn ayr  -  3.672336220741272
+aryl saas lyra  -  3.71593701839447
+ uremia ai meru  -  3.7165287733078003
+vestita suffusa tit sev  -  3.7874799966812134
+uremia baba suffusa babai meru  -  3.7982183694839478
+bruce noone curb  -  3.8118155002593994
+tangara lata suffusa talara gnat  -  3.8282185792922974
+weston nacelle cannot sew  -  3.8450387716293335
+ryan ellen ayr  -  3.9261802434921265
+mi eid die im  -  3.9315816164016724
+yaw liar railway  -  3.9727163314819336
+finn if   -  3.9974920749664307
+laeve annae veal  -  4.084205865859985
+ ius sui  -  4.202603340148926
+ius sui   -  4.202603340148926
+ bob bob  -  4.224045753479004
+hal la allah  -  4.229551792144775
+il or a cor off oro caroli  -  4.324929714202881
+uremic from arc cram or fc i meru  -  4.327163577079773
+en elisa suffusa silene  -  4.331777811050415
+voter apes oppose pareto v  -  4.37962281703949
+anita lee latina  -  4.409071683883667
+ryan likes oppose kiln ayr  -  4.438614845275879
+ii dara suffusa radii  -  4.441820383071899
+oi ramus su mario  -  4.447293043136597
+zappa praenomen nemo near pap paz   -  4.463774681091309
+diva dalla david  -  4.4833831787109375
+uremia mi bur rubi mai meru  -  4.488298654556274
+oi sa coot too casio  -  4.505831956863403
+un emo o menu  -  4.530506372451782
+vestalis silat sev  -  4.542454719543457
+ana suffusa na  -  4.587576627731323
+una suffusa nu  -  4.637897968292236
+al en apes oppose panela  -  4.662942886352539
+ te luma amulet  -  4.671025514602661
+if uses oppose sufi  -  4.672225475311279
+ell omar assara molle  -  4.684063911437988
+ya hilli hay  -  4.686047554016113
+xeric recalled della cerci rex  -  4.734743595123291
+otus su to   -  4.747971296310425
+deus aa sued  -  4.755644083023071
+talis aa silat  -  4.796369314193726
+aha finn if aha  -  4.802122354507446
+gofasi le elisa fog  -  4.812805891036987
+imam u umami  -  4.8416712284088135
+fc otto cf  -  4.937893390655518
+tenet e annae tenet   -  4.951548099517822
+gnoma peep among  -  4.9705119132995605
+operon deed no repo  -  4.972383499145508
