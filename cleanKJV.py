@@ -1,7 +1,7 @@
 import re
 import random
 
-dictionary_dir = "dictionaries"
+dictionary_dir = "dictionaries/"
 
 f = open(dictionary_dir + "/kjv.txt")
 
@@ -39,6 +39,9 @@ for line in lines:
 
     sentences.add(sentence.lower())
 
+print("is it in words?","mezahab" in words)
+print("is it in proper nouns?", "mezahab" in sentencesPerProperNouns.keys())
+
 wordsLeftOut = 0
 for word in sentencesPerProperNouns.keys():
     if len(sentencesPerProperNouns[word]) >= MIN_WORD_PREVELANCE:
@@ -46,7 +49,7 @@ for word in sentencesPerProperNouns.keys():
     else:
         if word.lower() not in words:
             wordsLeftOut = wordsLeftOut + 1
-            print(word, sentencesPerProperNouns[word])
+            #print(word, sentencesPerProperNouns[word])
 
 words = list(words)
 words.sort()
