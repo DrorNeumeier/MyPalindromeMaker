@@ -3,6 +3,12 @@ import random
 
 dictionary_dir = "dictionaries/"
 
+f = open(dictionary_dir + "/eng3_words.txt")
+scrabble_words = f.readlines()
+scrabble_words = [word.strip() for word in scrabble_words]
+
+print(scrabble_words[:10])
+
 f = open(dictionary_dir + "/internet_archive_scifi_v3.txt")
 
 lines = f.readlines()
@@ -70,14 +76,16 @@ for line in lines:
     
             sentencesPerProperNouns[word].add(sentence)
         
-        else:
+        elif True: #len(word) <= 3:
             word = word.lower()
             
             if word not in sentencesPerWord.keys():
                 sentencesPerWord[word] = set()
                 
             sentencesPerWord[word].add(sentence)
-            #words.add(word.lower())
+        else:
+            words.add(word.lower())
+        
     
     sentences.add(sentence.lower())
     
@@ -85,9 +93,14 @@ for line in lines:
 
 wordsLeftOut = 0
 for word in sentencesPerWord.keys():
-    if len(sentencesPerWord[word]) >= MIN_WORD_PREVELANCE and word not in words:
+    if word in words:
+        continue
+    elif len(word) <= 3 and len(sentencesPerWord[word]) >= 10000:
         words.add(word)
-    elif word not in words:
+    elif len(word) > 3 and len(sentencesPerWord[word]) >= MIN_WORD_PREVELANCE:
+        words.add(word)
+        #print(word, len(sentencesPerWord[word]))
+    elif word:
         wordsLeftOut = wordsLeftOut + 1
 
 pnWordsLeftOut = 0
