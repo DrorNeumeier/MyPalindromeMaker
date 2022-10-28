@@ -10,11 +10,13 @@ lines = f.readlines()
 sentences = set()
 words = set()
 sentencesPerProperNouns = {}
+sentencesPerWord = {}
 
 MIN_SENTENCE_WORD_COUNT = 3
 MAX_SENTENCE_WORD_COUNT = 64
 MAX_SENTENCE_COUNT = 300000
-MIN_WORD_PREVELANCE = 200
+MIN_WORD_PREVELANCE = 10
+MIN_PN_WORD_PREVELANCE = 200
 
 lines = re.split('[.!?]+', lines[0])
 
@@ -45,6 +47,10 @@ for line in lines:
     
     words_ = sentence.split(" ")
     
+    if len(words_) < MIN_SENTENCE_WORD_COUNT or len(words_) > MAX_SENTENCE_WORD_COUNT:
+        #too long or too short. pass
+        continue
+    
     for word_i in range(len(words_)):
         #words.add(word)
         word = words_[word_i]
@@ -65,25 +71,38 @@ for line in lines:
             sentencesPerProperNouns[word].add(sentence)
         
         else:
-            words.add(word.lower())
+            word = word.lower()
+            
+            if word not in sentencesPerWord.keys():
+                sentencesPerWord[word] = set()
+                
+            sentencesPerWord[word].add(sentence)
+            #words.add(word.lower())
     
     sentences.add(sentence.lower())
     
 
 
 wordsLeftOut = 0
-for word in sentencesPerProperNouns.keys():
-
-    if len(sentencesPerProperNouns[word]) >= MIN_WORD_PREVELANCE and word not in words:
+for word in sentencesPerWord.keys():
+    if len(sentencesPerWord[word]) >= MIN_WORD_PREVELANCE and word not in words:
         words.add(word)
-        print(word, len(sentencesPerProperNouns[word]))
     elif word not in words:
         wordsLeftOut = wordsLeftOut + 1
+
+pnWordsLeftOut = 0
+for word in sentencesPerProperNouns.keys():
+
+    if len(sentencesPerProperNouns[word]) >= MIN_PN_WORD_PREVELANCE and word not in words:
+        words.add(word)
+        #print(word, len(sentencesPerProperNouns[word]))
+    elif word not in words:
+        pnWordsLeftOut = pnWordsLeftOut + 1
 
 words = list(words)
 words.sort()
 
-print(len(sentences), "sentences and", len(words), "words with",wordsLeftOut, "proper nouns left out and",  len(lines), "lines")
+print(len(sentences), "sentences and", len(words), "words with",wordsLeftOut,"+",pnWordsLeftOut,"=",wordsLeftOut+pnWordsLeftOut, "words left out and",  len(lines), "lines")
 
 sentences = list(sentences)
 random.shuffle(sentences)
