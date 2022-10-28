@@ -9,12 +9,12 @@ lines = f.readlines()
 
 sentences = set()
 words = set()
-sentencesPerWord = {}
+sentencesPerProperNouns = {}
 
 MIN_SENTENCE_WORD_COUNT = 3
 MAX_SENTENCE_WORD_COUNT = 64
 MAX_SENTENCE_COUNT = 300000
-MIN_WORD_PREVELANCE = 10
+MIN_WORD_PREVELANCE = 200
 
 lines = re.split('[.!?]+', lines[0])
 
@@ -44,41 +44,46 @@ for line in lines:
         continue
     
     words_ = sentence.split(" ")
-    if len(words_) > MAX_SENTENCE_WORD_COUNT or len(words_) < MIN_SENTENCE_WORD_COUNT:
-        #sentence too long. pass
-        continue
-    if len([word for word in words_ if word.isupper()]) > 0:
-        #its an acronym. pass
-        continue
-    if len([word for word in words_ if word[0].isupper()]) > 2:
-        #more then 1 proper noun. pass
-        continue
-        
-    sentence = re.sub(r'[^a-z ]', '', sentence.strip().lower())
     
-    sentences.add(sentence)
-    
-    words_ = sentence.split(" ")
-    for word in words_:
+    for word_i in range(len(words_)):
         #words.add(word)
+        word = words_[word_i]
         
-        if word not in sentencesPerWord.keys():
-            sentencesPerWord[word] = set()
+        if  word.isupper():
+            #its an acronym. pass
+            continue
+        
+        if word[0].islower() and any(map(str.isupper, word)):
+            #I don't know what the hell this is. pass
+            continue
             
-        sentencesPerWord[word].add(sentence)
+        if word[0].isupper():
+            word = word.lower()
+            if word not in sentencesPerProperNouns.keys():
+                sentencesPerProperNouns[word] = set()
+    
+            sentencesPerProperNouns[word].add(sentence)
+        
+        else:
+            words.add(word.lower())
+    
+    sentences.add(sentence.lower())
+    
 
-    #if len(sentences) >= MAX_SENTENCE_COUNT:
-    #    break
 
+wordsLeftOut = 0
+for word in sentencesPerProperNouns.keys():
 
-for word in sentencesPerWord.keys():
-    if len(sentencesPerWord[word]) >= MIN_WORD_PREVELANCE:
+    if len(sentencesPerProperNouns[word]) >= MIN_WORD_PREVELANCE and word not in words:
         words.add(word)
+        print(word, len(sentencesPerProperNouns[word]))
+    elif word not in words:
+        wordsLeftOut = wordsLeftOut + 1
 
 words = list(words)
 words.sort()
 
-print(len(sentences), "sentences and", len(words), "words out of", len(lines), "lines")
+print(len(sentences), "sentences and", len(words), "words with",wordsLeftOut, "proper nouns left out and",  len(lines), "lines")
 
 sentences = list(sentences)
 random.shuffle(sentences)

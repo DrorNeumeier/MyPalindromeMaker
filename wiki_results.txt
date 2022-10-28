@@ -539,3 +539,341 @@ fc otto cf  -  4.937893390655518
 tenet e annae tenet   -  4.951548099517822
 gnoma peep among  -  4.9705119132995605
 operon deed no repo  -  4.972383499145508
+
+
+
+
+
+
+
+
+
+
+
+Making palindromes using dictionary: Wikipedia:wiki
+/usr/local/lib/python3.7/dist-packages/transformers/tokenization_utils_base.py:2308: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  FutureWarning,
+#######FAILED but close: rbr hannah rbr -4.642940521240234
+...I have tried 999 palindromes (1000 rounds) and found 0 that pass the language model. My duplication ratio is 0.000000
+
+ leah parses opposes raphael 1.557880938053131
+Top contenders [('leah parses opposes raphael', 1.557880938053131)]
+...I have tried 1999 palindromes (2000 rounds) and found 1 that pass the language model. My duplication ratio is 0.000000
+
+ cases oppose sac 7.22351598739624
+Top contenders [('cases oppose sac', 7.22351598739624), ('leah parses opposes raphael', 1.557880938053131)]
+...I have tried 2999 palindromes (3000 rounds) and found 2 that pass the language model. My duplication ratio is 0.000000
+...I have tried 3998 palindromes (4000 rounds) and found 2 that pass the language model. My duplication ratio is 0.000250
+
+ racecar deed racecar 1.4832665920257568
+Top contenders [('cases oppose sac', 7.22351598739624), ('leah parses opposes raphael', 1.557880938053131), ('racecar deed racecar', 1.4832665920257568)]
+...I have tried 4998 palindromes (5000 rounds) and found 3 that pass the language model. My duplication ratio is 0.000200
+...I have tried 5998 palindromes (6000 rounds) and found 3 that pass the language model. My duplication ratio is 0.000167
+...I have tried 6998 palindromes (7000 rounds) and found 3 that pass the language model. My duplication ratio is 0.000143
+#######FAILED but close: jar q arises opposes opposes opposes iraq raj -2.5161622762680054
+...I have tried 7998 palindromes (8000 rounds) and found 3 that pass the language model. My duplication ratio is 0.000125
+...I have tried 8997 palindromes (9000 rounds) and found 3 that pass the language model. My duplication ratio is 0.000222
+...I have tried 9997 palindromes (10000 rounds) and found 3 that pass the language model. My duplication ratio is 0.000200
+...I have tried 10995 palindromes (11000 rounds) and found 3 that pass the language model. My duplication ratio is 0.000364
+...I have tried 11994 palindromes (12000 rounds) and found 3 that pass the language model. My duplication ratio is 0.000417
+...I have tried 12994 palindromes (13000 rounds) and found 3 that pass the language model. My duplication ratio is 0.000385
+...I have tried 13993 palindromes (14000 rounds) and found 3 that pass the language model. My duplication ratio is 0.000429
+...I have tried 14991 palindromes (15000 rounds) and found 3 that pass the language model. My duplication ratio is 0.000533
+
+ welsh kisses opposes sikh slew 2.502377986907959
+Top contenders [('cases oppose sac', 7.22351598739624), ('welsh kisses opposes sikh slew', 2.502377986907959), ('leah parses opposes raphael', 1.557880938053131), ('racecar deed racecar', 1.4832665920257568)]
+...I have tried 15990 palindromes (16000 rounds) and found 4 that pass the language model. My duplication ratio is 0.000562
+
+ q arises opposes iraq 2.4698370695114136
+Top contenders [('cases oppose sac', 7.22351598739624), ('welsh kisses opposes sikh slew', 2.502377986907959), ('q arises opposes iraq', 2.4698370695114136), ('leah parses opposes raphael', 1.557880938053131), ('racecar deed racecar', 1.4832665920257568)]
+#######FAILED but close: fc cf  -0.5261309891939163
+...I have tried 16987 palindromes (17000 rounds) and found 5 that pass the language model. My duplication ratio is 0.000706
+
+ e rarer ass are rare 4.394224405288696
+Top contenders [('cases oppose sac', 7.22351598739624), ('e rarer ass are rare', 4.394224405288696), ('welsh kisses opposes sikh slew', 2.502377986907959), ('q arises opposes iraq', 2.4698370695114136), ('leah parses opposes raphael', 1.557880938053131)]
+
+  s radar radars 2.1258893609046936
+Top contenders [('cases oppose sac', 7.22351598739624), ('e rarer ass are rare', 4.394224405288696), ('welsh kisses opposes sikh slew', 2.502377986907959), ('q arises opposes iraq', 2.4698370695114136), (' s radar radars', 2.1258893609046936)]
+...I have tried 17987 palindromes (18000 rounds) and found 7 that pass the language model. My duplication ratio is 0.000667
+#######FAILED but close: dahi iii had  -0.3939877189695835
+...I have tried 18984 palindromes (19000 rounds) and found 7 that pass the language model. My duplication ratio is 0.000789
+...I have tried 19981 palindromes (20000 rounds) and found 7 that pass the language model. My duplication ratio is 0.000900
+...I have tried 20977 palindromes (21000 rounds) and found 7 that pass the language model. My duplication ratio is 0.001048
+#######FAILED but close: c f fc -2.4658955335617065
+...I have tried 21976 palindromes (22000 rounds) and found 7 that pass the language model. My duplication ratio is 0.001045
+
+ groves s cases oppose sacs se v org 4.527266025543213
+Top contenders [('cases oppose sac', 7.22351598739624), ('groves s cases oppose sacs se v org', 4.527266025543213), ('e rarer ass are rare', 4.394224405288696), ('welsh kisses opposes sikh slew', 2.502377986907959), ('q arises opposes iraq', 2.4698370695114136)]
+...I have tried 22973 palindromes (23000 rounds) and found 8 that pass the language model. My duplication ratio is 0.001130
+...I have tried 23971 palindromes (24000 rounds) and found 8 that pass the language model. My duplication ratio is 0.001167
+
+ vanillin a v 0.1636882647871971
+Top contenders [('cases oppose sac', 7.22351598739624), ('groves s cases oppose sacs se v org', 4.527266025543213), ('e rarer ass are rare', 4.394224405288696), ('welsh kisses opposes sikh slew', 2.502377986907959), ('q arises opposes iraq', 2.4698370695114136)]
+
+ pvp mm pvp  1.2349002957344055
+Top contenders [('cases oppose sac', 7.22351598739624), ('groves s cases oppose sacs se v org', 4.527266025543213), ('e rarer ass are rare', 4.394224405288696), ('welsh kisses opposes sikh slew', 2.502377986907959), ('q arises opposes iraq', 2.4698370695114136)]
+#######FAILED but close: oi raman as sana mario -2.715102195739746
+...I have tried 24969 palindromes (25000 rounds) and found 10 that pass the language model. My duplication ratio is 0.001200
+...I have tried 25963 palindromes (26000 rounds) and found 10 that pass the language model. My duplication ratio is 0.001385
+
+ smt all atms 5.350366115570068
+Top contenders [('cases oppose sac', 7.22351598739624), ('smt all atms', 5.350366115570068), ('groves s cases oppose sacs se v org', 4.527266025543213), ('e rarer ass are rare', 4.394224405288696), ('welsh kisses opposes sikh slew', 2.502377986907959)]
+
+ acer all areca 7.100686550140381
+Top contenders [('cases oppose sac', 7.22351598739624), ('acer all areca', 7.100686550140381), ('smt all atms', 5.350366115570068), ('groves s cases oppose sacs se v org', 4.527266025543213), ('e rarer ass are rare', 4.394224405288696)]
+...I have tried 26957 palindromes (27000 rounds) and found 12 that pass the language model. My duplication ratio is 0.001556
+...I have tried 27954 palindromes (28000 rounds) and found 12 that pass the language model. My duplication ratio is 0.001607
+
+ d t lee ltd 1.666892170906067
+Top contenders [('cases oppose sac', 7.22351598739624), ('acer all areca', 7.100686550140381), ('smt all atms', 5.350366115570068), ('groves s cases oppose sacs se v org', 4.527266025543213), ('e rarer ass are rare', 4.394224405288696)]
+...I have tried 28953 palindromes (29000 rounds) and found 13 that pass the language model. My duplication ratio is 0.001586
+
+ it organs snag roti 9.677589416503906
+Top contenders [('it organs snag roti', 9.677589416503906), ('cases oppose sac', 7.22351598739624), ('acer all areca', 7.100686550140381), ('smt all atms', 5.350366115570068), ('groves s cases oppose sacs se v org', 4.527266025543213)]
+#######FAILED but close: www www  -4.3176140785217285
+#######FAILED but close:  sccs sccs -4.6264567375183105
+...I have tried 29950 palindromes (30000 rounds) and found 14 that pass the language model. My duplication ratio is 0.001633
+#######FAILED but close: oulema see same luo -4.581048488616943
+...I have tried 30949 palindromes (31000 rounds) and found 14 that pass the language model. My duplication ratio is 0.001613
+...I have tried 31946 palindromes (32000 rounds) and found 14 that pass the language model. My duplication ratio is 0.001656
+...I have tried 32943 palindromes (33000 rounds) and found 14 that pass the language model. My duplication ratio is 0.001697
+...I have tried 33939 palindromes (34000 rounds) and found 14 that pass the language model. My duplication ratio is 0.001765
+...I have tried 34935 palindromes (35000 rounds) and found 14 that pass the language model. My duplication ratio is 0.001829
+#######FAILED but close: sccs ii sccs -3.7041209936141968
+...I have tried 35933 palindromes (36000 rounds) and found 14 that pass the language model. My duplication ratio is 0.001833
+...I have tried 36932 palindromes (37000 rounds) and found 14 that pass the language model. My duplication ratio is 0.001811
+#######FAILED but close: ian ross o rnai -3.9469090700149536
+...I have tried 37929 palindromes (38000 rounds) and found 14 that pass the language model. My duplication ratio is 0.001842
+...I have tried 38926 palindromes (39000 rounds) and found 14 that pass the language model. My duplication ratio is 0.001872
+...I have tried 39921 palindromes (40000 rounds) and found 14 that pass the language model. My duplication ratio is 0.001950
+...I have tried 40915 palindromes (41000 rounds) and found 14 that pass the language model. My duplication ratio is 0.002049
+#######FAILED but close:  fc cf -0.5261309891939163
+...I have tried 41909 palindromes (42000 rounds) and found 14 that pass the language model. My duplication ratio is 0.002143
+...I have tried 42907 palindromes (43000 rounds) and found 14 that pass the language model. My duplication ratio is 0.002140
+#######FAILED but close: tropes oppose port -3.564737558364868
+...I have tried 43902 palindromes (44000 rounds) and found 14 that pass the language model. My duplication ratio is 0.002205
+...I have tried 44899 palindromes (45000 rounds) and found 14 that pass the language model. My duplication ratio is 0.002222
+
+ rbr mm rbr 4.95423150062561
+Top contenders [('it organs snag roti', 9.677589416503906), ('cases oppose sac', 7.22351598739624), ('acer all areca', 7.100686550140381), ('smt all atms', 5.350366115570068), ('rbr mm rbr', 4.95423150062561)]
+...I have tried 45892 palindromes (46000 rounds) and found 15 that pass the language model. My duplication ratio is 0.002326
+#######FAILED but close: pvp gas sag pvp -3.556967854499817
+...I have tried 46890 palindromes (47000 rounds) and found 15 that pass the language model. My duplication ratio is 0.002319
+
+ it it eps abbas petiti 10.578255653381348
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('it organs snag roti', 9.677589416503906), ('cases oppose sac', 7.22351598739624), ('acer all areca', 7.100686550140381), ('smt all atms', 5.350366115570068)]
+...I have tried 47884 palindromes (48000 rounds) and found 16 that pass the language model. My duplication ratio is 0.002396
+...I have tried 48880 palindromes (49000 rounds) and found 16 that pass the language model. My duplication ratio is 0.002429
+#######FAILED but close: rbr call ac rbr -1.800937294960022
+...I have tried 49879 palindromes (50000 rounds) and found 16 that pass the language model. My duplication ratio is 0.002400
+#######FAILED but close: lyra pvp pvp aryl -3.8252007961273193
+
+ blades opposed alb 6.764185905456543
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('it organs snag roti', 9.677589416503906), ('cases oppose sac', 7.22351598739624), ('acer all areca', 7.100686550140381), ('blades opposed alb', 6.764185905456543)]
+...I have tried 50873 palindromes (51000 rounds) and found 17 that pass the language model. My duplication ratio is 0.002471
+...I have tried 51872 palindromes (52000 rounds) and found 17 that pass the language model. My duplication ratio is 0.002442
+
+ a patronage bee began or tapa 7.959188222885132
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('it organs snag roti', 9.677589416503906), ('a patronage bee began or tapa', 7.959188222885132), ('cases oppose sac', 7.22351598739624), ('acer all areca', 7.100686550140381)]
+
+ smt add atms 1.2650291919708252
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('it organs snag roti', 9.677589416503906), ('a patronage bee began or tapa', 7.959188222885132), ('cases oppose sac', 7.22351598739624), ('acer all areca', 7.100686550140381)]
+...I have tried 52867 palindromes (53000 rounds) and found 19 that pass the language model. My duplication ratio is 0.002491
+#######FAILED but close: pvp ii pvp -1.9057088494300842
+
+ tabor called dell acrobat 4.429586887359619
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('it organs snag roti', 9.677589416503906), ('a patronage bee began or tapa', 7.959188222885132), ('cases oppose sac', 7.22351598739624), ('acer all areca', 7.100686550140381)]
+...I have tried 53860 palindromes (54000 rounds) and found 20 that pass the language model. My duplication ratio is 0.002574
+...I have tried 54858 palindromes (55000 rounds) and found 20 that pass the language model. My duplication ratio is 0.002564
+
+ boba won now a bob 10.127981662750244
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('boba won now a bob', 10.127981662750244), ('it organs snag roti', 9.677589416503906), ('a patronage bee began or tapa', 7.959188222885132), ('cases oppose sac', 7.22351598739624)]
+
+ smt all atms  5.350366115570068
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('boba won now a bob', 10.127981662750244), ('it organs snag roti', 9.677589416503906), ('a patronage bee began or tapa', 7.959188222885132), ('cases oppose sac', 7.22351598739624)]
+...I have tried 55853 palindromes (56000 rounds) and found 22 that pass the language model. My duplication ratio is 0.002607
+...I have tried 56848 palindromes (57000 rounds) and found 22 that pass the language model. My duplication ratio is 0.002649
+...I have tried 57848 palindromes (58000 rounds) and found 22 that pass the language model. My duplication ratio is 0.002603
+
+ yaw busses opposes subway 6.807523727416992
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('boba won now a bob', 10.127981662750244), ('it organs snag roti', 9.677589416503906), ('a patronage bee began or tapa', 7.959188222885132), ('cases oppose sac', 7.22351598739624)]
+...I have tried 58845 palindromes (59000 rounds) and found 23 that pass the language model. My duplication ratio is 0.002610
+
+ aka baka aka baka 3.3143560886383057
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('boba won now a bob', 10.127981662750244), ('it organs snag roti', 9.677589416503906), ('a patronage bee began or tapa', 7.959188222885132), ('cases oppose sac', 7.22351598739624)]
+...I have tried 59841 palindromes (60000 rounds) and found 24 that pass the language model. My duplication ratio is 0.002633
+#######FAILED but close: blairi alb blairi alb -3.6334431171417236
+#######FAILED but close:  www www  -4.3176140785217285
+...I have tried 60833 palindromes (61000 rounds) and found 24 that pass the language model. My duplication ratio is 0.002721
+
+  bside see sedis b 1.9047608375549316
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('boba won now a bob', 10.127981662750244), ('it organs snag roti', 9.677589416503906), ('a patronage bee began or tapa', 7.959188222885132), ('cases oppose sac', 7.22351598739624)]
+...I have tried 61832 palindromes (62000 rounds) and found 25 that pass the language model. My duplication ratio is 0.002694
+...I have tried 62829 palindromes (63000 rounds) and found 25 that pass the language model. My duplication ratio is 0.002698
+...I have tried 63822 palindromes (64000 rounds) and found 25 that pass the language model. My duplication ratio is 0.002766
+
+ poplar referees see referral pop 7.274269342422485
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('boba won now a bob', 10.127981662750244), ('it organs snag roti', 9.677589416503906), ('a patronage bee began or tapa', 7.959188222885132), ('poplar referees see referral pop', 7.274269342422485)]
+
+ animals lived devils lamina 1.0554673373699188
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('boba won now a bob', 10.127981662750244), ('it organs snag roti', 9.677589416503906), ('a patronage bee began or tapa', 7.959188222885132), ('poplar referees see referral pop', 7.274269342422485)]
+...I have tried 64816 palindromes (65000 rounds) and found 27 that pass the language model. My duplication ratio is 0.002815
+...I have tried 65813 palindromes (66000 rounds) and found 27 that pass the language model. My duplication ratio is 0.002818
+...I have tried 66809 palindromes (67000 rounds) and found 27 that pass the language model. My duplication ratio is 0.002836
+...I have tried 67805 palindromes (68000 rounds) and found 27 that pass the language model. My duplication ratio is 0.002853
+
+ twenties oppose it newt 3.5733004808425903
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('boba won now a bob', 10.127981662750244), ('it organs snag roti', 9.677589416503906), ('a patronage bee began or tapa', 7.959188222885132), ('poplar referees see referral pop', 7.274269342422485)]
+...I have tried 68801 palindromes (69000 rounds) and found 28 that pass the language model. My duplication ratio is 0.002870
+
+ due fall a feud 10.111374378204346
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('boba won now a bob', 10.127981662750244), ('due fall a feud', 10.111374378204346), ('it organs snag roti', 9.677589416503906), ('a patronage bee began or tapa', 7.959188222885132)]
+...I have tried 69798 palindromes (70000 rounds) and found 29 that pass the language model. My duplication ratio is 0.002871
+#######FAILED but close: due fewer on n or ewe feud -3.6826910972595215
+...I have tried 70794 palindromes (71000 rounds) and found 29 that pass the language model. My duplication ratio is 0.002887
+...I have tried 71791 palindromes (72000 rounds) and found 29 that pass the language model. My duplication ratio is 0.002889
+...I have tried 72787 palindromes (73000 rounds) and found 29 that pass the language model. My duplication ratio is 0.002904
+
+ aka boris siro baka 2.8667609691619873
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('boba won now a bob', 10.127981662750244), ('due fall a feud', 10.111374378204346), ('it organs snag roti', 9.677589416503906), ('a patronage bee began or tapa', 7.959188222885132)]
+...I have tried 73780 palindromes (74000 rounds) and found 30 that pass the language model. My duplication ratio is 0.002959
+#######FAILED but close: tim replaced decal permit -4.563795328140259
+...I have tried 74774 palindromes (75000 rounds) and found 30 that pass the language model. My duplication ratio is 0.003000
+...I have tried 75771 palindromes (76000 rounds) and found 30 that pass the language model. My duplication ratio is 0.003000
+...I have tried 76766 palindromes (77000 rounds) and found 30 that pass the language model. My duplication ratio is 0.003026
+...I have tried 77764 palindromes (78000 rounds) and found 30 that pass the language model. My duplication ratio is 0.003013
+...I have tried 78755 palindromes (79000 rounds) and found 30 that pass the language model. My duplication ratio is 0.003089
+#######FAILED but close: deus peep sued -3.96544873714447
+...I have tried 79748 palindromes (80000 rounds) and found 30 that pass the language model. My duplication ratio is 0.003138
+
+ rbr sccs rbr 7.950515508651733
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('boba won now a bob', 10.127981662750244), ('due fall a feud', 10.111374378204346), ('it organs snag roti', 9.677589416503906), ('a patronage bee began or tapa', 7.959188222885132)]
+
+ gar cdna and crag 0.5342361629009247
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('boba won now a bob', 10.127981662750244), ('due fall a feud', 10.111374378204346), ('it organs snag roti', 9.677589416503906), ('a patronage bee began or tapa', 7.959188222885132)]
+...I have tried 80747 palindromes (81000 rounds) and found 32 that pass the language model. My duplication ratio is 0.003111
+...I have tried 81735 palindromes (82000 rounds) and found 32 that pass the language model. My duplication ratio is 0.003220
+...I have tried 82732 palindromes (83000 rounds) and found 32 that pass the language model. My duplication ratio is 0.003217
+...I have tried 83727 palindromes (84000 rounds) and found 32 that pass the language model. My duplication ratio is 0.003238
+...I have tried 84717 palindromes (85000 rounds) and found 32 that pass the language model. My duplication ratio is 0.003318
+
+  rbr ii rbr 5.72389030456543
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('boba won now a bob', 10.127981662750244), ('due fall a feud', 10.111374378204346), ('it organs snag roti', 9.677589416503906), ('a patronage bee began or tapa', 7.959188222885132)]
+...I have tried 85710 palindromes (86000 rounds) and found 33 that pass the language model. My duplication ratio is 0.003360
+...I have tried 86707 palindromes (87000 rounds) and found 33 that pass the language model. My duplication ratio is 0.003356
+...I have tried 87701 palindromes (88000 rounds) and found 33 that pass the language model. My duplication ratio is 0.003386
+
+ rbr rbr  8.861508846282959
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('boba won now a bob', 10.127981662750244), ('due fall a feud', 10.111374378204346), ('it organs snag roti', 9.677589416503906), ('rbr rbr ', 8.861508846282959)]
+...I have tried 88692 palindromes (89000 rounds) and found 34 that pass the language model. My duplication ratio is 0.003449
+...I have tried 89688 palindromes (90000 rounds) and found 34 that pass the language model. My duplication ratio is 0.003456
+
+ jarrett oasis abbas is a otter raj 8.884628772735596
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('boba won now a bob', 10.127981662750244), ('due fall a feud', 10.111374378204346), ('it organs snag roti', 9.677589416503906), ('jarrett oasis abbas is a otter raj', 8.884628772735596)]
+
+ called dell a c 6.204430341720581
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('boba won now a bob', 10.127981662750244), ('due fall a feud', 10.111374378204346), ('it organs snag roti', 9.677589416503906), ('jarrett oasis abbas is a otter raj', 8.884628772735596)]
+
+ soto see sotos 2.680890202522278
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('boba won now a bob', 10.127981662750244), ('due fall a feud', 10.111374378204346), ('it organs snag roti', 9.677589416503906), ('jarrett oasis abbas is a otter raj', 8.884628772735596)]
+...I have tried 90680 palindromes (91000 rounds) and found 37 that pass the language model. My duplication ratio is 0.003505
+
+ aha moses opposes omaha  5.733371734619141
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('boba won now a bob', 10.127981662750244), ('due fall a feud', 10.111374378204346), ('it organs snag roti', 9.677589416503906), ('jarrett oasis abbas is a otter raj', 8.884628772735596)]
+
+ swales oppose laws 10.238912105560303
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('swales oppose laws', 10.238912105560303), ('boba won now a bob', 10.127981662750244), ('due fall a feud', 10.111374378204346), ('it organs snag roti', 9.677589416503906)]
+...I have tried 91674 palindromes (92000 rounds) and found 39 that pass the language model. My duplication ratio is 0.003533
+
+ lines oppose nil 5.464370489120483
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('swales oppose laws', 10.238912105560303), ('boba won now a bob', 10.127981662750244), ('due fall a feud', 10.111374378204346), ('it organs snag roti', 9.677589416503906)]
+...I have tried 92668 palindromes (93000 rounds) and found 40 that pass the language model. My duplication ratio is 0.003559
+#######FAILED but close: pvp sisurcana anacrusis pvp -4.226683497428894
+...I have tried 93666 palindromes (94000 rounds) and found 40 that pass the language model. My duplication ratio is 0.003543
+...I have tried 94660 palindromes (95000 rounds) and found 40 that pass the language model. My duplication ratio is 0.003568
+...I have tried 95657 palindromes (96000 rounds) and found 40 that pass the language model. My duplication ratio is 0.003563
+#######FAILED but close: spp add apps -1.976499855518341
+
+ a cocos labor blades opposed alb rob also coca 1.1131561994552612
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('swales oppose laws', 10.238912105560303), ('boba won now a bob', 10.127981662750244), ('due fall a feud', 10.111374378204346), ('it organs snag roti', 9.677589416503906)]
+...I have tried 96646 palindromes (97000 rounds) and found 41 that pass the language model. My duplication ratio is 0.003639
+...I have tried 97641 palindromes (98000 rounds) and found 41 that pass the language model. My duplication ratio is 0.003653
+
+ ics airs sri asci 8.071017265319824
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('swales oppose laws', 10.238912105560303), ('boba won now a bob', 10.127981662750244), ('due fall a feud', 10.111374378204346), ('it organs snag roti', 9.677589416503906)]
+
+ rbr otto rbr 5.614206314086914
+Top contenders [('it it eps abbas petiti', 10.578255653381348), ('swales oppose laws', 10.238912105560303), ('boba won now a bob', 10.127981662750244), ('due fall a feud', 10.111374378204346), ('it organs snag roti', 9.677589416503906)]
+...I have tried 98640 palindromes (99000 rounds) and found 43 that pass the language model. My duplication ratio is 0.003626
+...I have tried 99634 palindromes (100000 rounds) and found 43 that pass the language model. My duplication ratio is 0.003650
+Reached round limit
+-----------------------------------
+it it eps abbas petiti  -  10.578255653381348
+swales oppose laws  -  10.238912105560303
+boba won now a bob  -  10.127981662750244
+due fall a feud  -  10.111374378204346
+it organs snag roti  -  9.677589416503906
+jarrett oasis abbas is a otter raj  -  8.884628772735596
+rbr rbr   -  8.861508846282959
+ics airs sri asci  -  8.071017265319824
+a patronage bee began or tapa  -  7.959188222885132
+rbr sccs rbr  -  7.950515508651733
+poplar referees see referral pop  -  7.274269342422485
+cases oppose sac  -  7.22351598739624
+acer all areca  -  7.100686550140381
+yaw busses opposes subway  -  6.807523727416992
+blades opposed alb  -  6.764185905456543
+called dell a c  -  6.204430341720581
+aha moses opposes omaha   -  5.733371734619141
+ rbr ii rbr  -  5.72389030456543
+rbr otto rbr  -  5.614206314086914
+lines oppose nil  -  5.464370489120483
+smt all atms  -  5.350366115570068
+smt all atms   -  5.350366115570068
+rbr mm rbr  -  4.95423150062561
+groves s cases oppose sacs se v org  -  4.527266025543213
+tabor called dell acrobat  -  4.429586887359619
+e rarer ass are rare  -  4.394224405288696
+twenties oppose it newt  -  3.5733004808425903
+aka baka aka baka  -  3.3143560886383057
+aka boris siro baka  -  2.8667609691619873
+soto see sotos  -  2.680890202522278
+welsh kisses opposes sikh slew  -  2.502377986907959
+q arises opposes iraq  -  2.4698370695114136
+ s radar radars  -  2.1258893609046936
+ bside see sedis b  -  1.9047608375549316
+d t lee ltd  -  1.666892170906067
+leah parses opposes raphael  -  1.557880938053131
+racecar deed racecar  -  1.4832665920257568
+smt add atms  -  1.2650291919708252
+pvp mm pvp   -  1.2349002957344055
+a cocos labor blades opposed alb rob also coca  -  1.1131561994552612
+animals lived devils lamina  -  1.0554673373699188
+gar cdna and crag  -  0.5342361629009247
+vanillin a v  -  0.1636882647871971
+-----------------------------------
+honorable mentions
+dahi iii had   -  0.3939877189695835
+fc cf   -  0.5261309891939163
+ fc cf  -  0.5261309891939163
+rbr call ac rbr  -  1.800937294960022
+pvp ii pvp  -  1.9057088494300842
+spp add apps  -  1.976499855518341
+c f fc  -  2.4658955335617065
+jar q arises opposes opposes opposes iraq raj  -  2.5161622762680054
+oi raman as sana mario  -  2.715102195739746
+pvp gas sag pvp  -  3.556967854499817
+tropes oppose port  -  3.564737558364868
+blairi alb blairi alb  -  3.6334431171417236
+due fewer on n or ewe feud  -  3.6826910972595215
+sccs ii sccs  -  3.7041209936141968
+lyra pvp pvp aryl  -  3.8252007961273193
+ian ross o rnai  -  3.9469090700149536
+deus peep sued  -  3.96544873714447
+pvp sisurcana anacrusis pvp  -  4.226683497428894
+www www   -  4.3176140785217285
+ www www   -  4.3176140785217285
+tim replaced decal permit  -  4.563795328140259
+oulema see same luo  -  4.581048488616943
+ sccs sccs  -  4.6264567375183105
+rbr hannah rbr  -  4.642940521240234
